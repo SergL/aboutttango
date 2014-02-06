@@ -1,0 +1,246 @@
+@import url("reset.css");
+@import url("review.css");
+@import url("buy_buttons.css");
+@import url("bullets.css");
+@import url("bonus.css");
+@import url("video.css");
+
+/**/
+em {
+    font-style: italic;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+html {
+    background-color: #f3f3f3;
+    background-repeat: repeat;
+    background-position: center top;
+    background-attachment: inherit;
+    padding: 20px !important;
+    overflow: scroll;
+}
+a{
+    text-decoration: underline;
+}
+img{
+    box-shadow: none!important;
+}
+
+body {
+    font-family:Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: normal;
+    color: #292929;
+}
+
+body.mceContentBody {
+    width: 687px;
+    margin: 20px auto !important;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background: #fff;
+    padding: 20px;
+    overflow: visible !important
+}
+
+.page_title {
+    margin: 10px 0 20px;
+    font: italic 30px/35px Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+.mceContentBody {
+    overflow: hidden;
+}
+
+.mceContentBody iframe {
+    display: block;
+    padding: 20px;
+    border: 1px dashed #ccc;
+    margin: 10px auto;
+}
+
+.mceContentBody .alignleft {
+    float: left;
+    margin: 5px 15px 5px 0;
+    clear: right;
+}
+
+.mceContentBody .alignright {
+    float: right;
+    margin: 5px 0 5px 15px;
+    clear: left;
+}
+
+.mceContentBody .aligncenter {
+    float: none;
+    clear: both;
+    text-align: center;
+}
+
+.mceContentBody ol {
+    list-style: decimal outside !important;
+    padding: 0 0 0 50px;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+    border: 1px dashed #cccccc!important;
+}
+
+p {
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+/* media */
+.media_wrap {
+    position: relative;
+    margin-bottom: 30px
+}
+
+.media_box {
+    width: 910px;
+    height: 420px;
+    margin-left: -140px;
+    border: 1px solid #ababab;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background: #fff;
+    padding: 20px;
+}
+
+.media_title {
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.media_box .video {
+    float: left;
+    width: 579px;
+    height: 359px;
+}
+
+/**/
+.media_box .smartresponder {
+    float: right;
+    width: 300px;
+}
+
+.ps_cbutton {
+    display: block !important;
+    clear: both;
+    float: none;
+    text-align: center;
+    display: block;
+    width: 300px;
+    height: 53px;
+    padding: 0 !important;
+    margin: 5px auto;
+    border: none;
+    font: 18px/52px Arial, Helvetica, sans-serif;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* boxes */
+.ps_text_box {
+    padding: 20px !important;
+    margin: 10px 0;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+ul.ps_text_box {
+    padding: 20px 40px !important;
+}
+
+.ps_text_box_1 {
+    border: 2px dashed #595959;
+    background: #d9d9d9;
+    color: #000;
+}
+
+.ps_text_box_1_1 {
+    border: 2px dashed #afafae;
+    background: #f2f2f2;
+    color: #000;
+}
+
+.ps_text_box_2 {
+    border: 2px dashed #295925;
+    background: #51b048;
+    color: #fff;
+}
+
+.ps_text_box_2_1 {
+    border: 2px dashed #295925;
+    background: #aaffaa;
+    color: #000;
+}
+
+.ps_text_box_3 {
+    border: 2px dashed #3a3cba;
+    background: #474ae2;
+    color: #fff;
+}
+
+.ps_text_box_3_1 {
+    border: 2px dashed #3a3cba;
+    background: #e5e5fc;
+    color: #000;
+}
+
+.ps_text_box_4 {
+    border: 2px dashed #cf0e22;
+    background: #ce404f;
+    color: #fff;
+}
+
+.ps_text_box_4_1 {
+    border: 2px dashed #cf0e22;
+    background: #fcd4d4;
+    color: #000;
+}
+
+.ps_text_box_5 {
+    border: 2px dashed #c2ac5f;
+    background: #ffe37e;
+    color: #000;
+}
+
+.ps_text_box_5_1 {
+    border: 2px dashed #c2ac5f;
+    background: #ffffaa;
+    color: #000;
+}
+
+.ps_text_box_6 {
+    border: 2px dashed #bbbbbb;
+    background: #fff;
+    color: #000;
+}
+
+/**/
+.ps_arrow, .ps_satisfaction {
+    display: block;
+    clear: both;
+    margin: 10px auto;
+    float: none;
+    text-align: center;
+    border: none;
+}
+
+

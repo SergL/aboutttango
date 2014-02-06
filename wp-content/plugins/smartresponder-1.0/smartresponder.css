@@ -1,0 +1,165 @@
+/* http://meyerweb.com/eric/tools/css/reset/ */
+/* v1.0 | 20080212 */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Smartresponder plugin */
+.wrap { margin-top: 20px; margin-left: 20px; }
+.section { width: 1050px; background: #FFFFFF; margin: 0 0 30px; }
+ul.tabs { height: 28px; line-height: 25px; list-style: none; border-bottom: 1px solid #DDD; background: #FFF; }
+ul.tabs-disabled { height: 28px; line-height: 25px; list-style: none; border-bottom: 1px solid #DDD; background: #FFF; }
+.tabs li { float: left; display: inline; margin: 0 1px -1px 0; padding: 0 13px 1px; color: #777; cursor: pointer; background: #F9F9F9; border: 1px solid #E4E4E4; border-bottom: 1px solid #F9F9F9; position: relative; }
+.tabs-disabled li { float: left; display: inline; margin: 0 1px -1px 0; padding: 0 13px 1px; color: #777; cursor: pointer; background: #FFEBE8; border: 1px solid #E4E4E4; border-bottom: 1px solid #F9F9F9; position: relative; }
+.tabs li:hover, .vertical .tabs li:hover { color: #707070; padding: 0 13px; background: #EEE; border: 1px solid #B4B1AE; }
+.tabs li.current { color: #444; background: #EFEFEF; padding: 0 13px 2px; border: 1px solid #D4D4D4; border-bottom: 1px solid #EFEFEF; }
+.tabs-disabled li.current { color: #444; background: #EFEFEF; padding: 0 13px 2px; border: 1px solid #D4D4D4; border-bottom: 1px solid #EFEFEF; }
+.box { margin-top: 10px; display: none; background: #FFFFFF; }
+.box.visible { display: block; }
+#form_generator { margin-top: 30px; }
+.leftCol { width: 570px; float: left; position: relative; }
+.rightCol { width: 450px; float: right; }
+.settings-header { height: 33px; background: url(https://smartresponder.ru/imgs/static/title-bg.png) repeat-x; border: 1px solid #A1A1A1; box-shadow: 2px 3px 2px #D5D5D5; }
+.settings-header p { margin: 7px 18px; float: left; }
+.settings { border: 1px solid #A1A1A1; border-top: none; background: white; float: right; width: 448px; height: 100%; font: 13px Verdana,'Helvetica Neue',Helvetica,sans-serif; box-shadow: 2px 3px 2px #D5D5D5; }
+.settings p { width: 310px; margin-left: 10px; padding-left: 10px; font-size: 12px; font-weight: bold; }
+.settings table tr { width: 295px; margin: auto; height: 35px; }
+#moreFields-settings { width: 310px; margin-left: 10px; padding-left: 10px; font-size: 12px; font-weight: bold; }
+.red { color: red; font-weight: bold; }
+.green { color: green; font-weight: bold; }
+.orange { color: orange; font-weight: bold; }
+.black { color: black; font-weight: bold; }
+input[type="checkbox"] { margin: 4px 0.5ex; }
+.scene-editor { border: 1px solid #A1A1A1; background: url(https://smartresponder.ru/imgs/static/editor-bg.gif) repeat; width: 570px; height: 500px; vertical-align: middle; overflow: auto; position: relative; }
+#more-fields { border: 1px solid #A1A1A1; border-top: 0px; width: 570px; height: auto; vertical-align: middle; overflow: auto; position: relative; box-shadow: 0 0 0; left: 2px; }
+.separator-sr { border-top: 1px dashed #D6D6D6; width: 100%; }
+.mtb { margin: 11px 0px 11px 19px; width: 392px; }
+.flds { width: 510px; margin-top: 30px; margin-left: 25px; padding: 5px 0px 15px 0px; overflow: hidden; }
+.flds input { cursor: pointer;  height: auto; border: none; font-weight: normal; float: left; margin-left: 4px; }
+#field_email, #field_name_first { color: white; }
+.flds .added-not-required, .flds .required { color: white; }
+.flds .added-not-required:hover, .flds .required:hover { color: white; }
+input[name="get"] { margin-left: 30px; }
+div.sr-disabled { width: 3px; height: 20px; margin: 10px 5px 0px 0px; background: transparent url(https://smartresponder.ru/css//JSCal2/form_gen/btn_right_disabled.png) no-repeat left top; float: left; }
+.sr-disabled { background: transparent url(https://smartresponder.ru/css//JSCal2/form_gen/btn_left_disabled.png) no-repeat; }
+.added-not-required { background: transparent url(https://smartresponder.ru/css//JSCal2/form_gen/btn_left_added.png) no-repeat; }
+.required { background: transparent url(https://smartresponder.ru/css//JSCal2/form_gen/btn_left_req.png) no-repeat; }
+div.not-added { width: 3px; height: 20px; margin: 10px 5px 0px 0px; background: transparent url(https://smartresponder.ru/css//JSCal2/form_gen/btn_right_not_added.png) no-repeat left top; float: left; }
+.not-added { background: transparent url(https://smartresponder.ru/css//JSCal2/form_gen/btn_left_not_added.png) no-repeat left top; color: #585858 !important; }
+.input-button { cursor: pointer; padding: 2px 14px; text-decoration: none; color: black; font: normal 13pt Arial, 'Helvetica Neue', Helvetica,sans-serif; margin: 0; }
+.getHTMLbtn { margin-top: 25px; margin-bottom: 20px; text-align: center; }
+.sr-box { background-color: white; }
+.sr-box-list li { display: block; height: 53px; cursor: pointer; color: black; font-family: Arial; font-size: 12px; padding: 3px 25px; cursor: pointer; position: relative; }
+.sr-box-list li label { line-height: 15px; height: 15px; cursor: pointer; z-index: 10; position: relative; overflow: hidden; display: block; margin-bottom: 5px; }
+label { overflow: hidden; display: block; margin-bottom: 5px; }
+.sr-box-list input[type="text"] { padding: 5px 10px; font-size: 12px; font-family: Arial; margin-bottom: 20px; z-index: 10; position: relative; width: 100%; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box; }
+.sr-box-list input[type="submit"], .sr-box-list select, .sr-box-list input[type="radio"], .sr-box-list p { z-index: 10; position: relative; }
+input[name="login-sr"] { width: 200px; height: 30px; cursor: pointer; }
+input[name="logout-sr"] { width: 100px; height: 30px; cursor: pointer; }
+.textbox, .textarea, .listbox { background-color: white; background: url('https://smartresponder.ru/imgs/static/shadow-field-bg.gif'); padding: 3px 2px 3px 5px; border: 1px solid #959595; font: normal 14px Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #2E3192; }
+#percent { background: url('https://smartresponder.ru/imgs/loading.gif'); width: 15px; height: 15px; display: block; margin-left: 35px; }
+.ui-resizable-se { cursor: se-resize; width: 12px; height: 12px; right: 1px; bottom: 1px; background: url('https://smartresponder.ru/imgs/static/resize-handler.png') no-repeat top left; }
+.login { width: 100%; height: 100%; display: block; }
+#modalWindowDefault_area { display: none; z-index: 99; width: 628px; height: 420px; background-color: #FFFFFF; border: 1px solid #959595; -webkit-border-radius:10px;  -moz-border-radius:10px;  -khtml-border-radius:10px; }
+.form_code { margin-top: 10px; margin-left: 14px; border: 1px solid #D6D6D6; width: 600px; height: 350px; overflow: auto; font-size: 12px; color: #333; resize: none; }
+#copy_to_clipboard { margin-top: 10px; margin-left: 10px; padding: 5px; }
+.flds_canvas { width: 1050px; height: 200px; border: 1px solid #A1A1A1; margin-top: 20px; }
+.mega-table-statistics { margin-top: 15px; }
+.mega-table-container { position: relative; overflow: hidden; clear: both; margin-bottom: 4px; text-align: left; margin-bottom: 10px; }
+.mega-table-filter { position: relative; overflow: hidden; clear: both; margin-bottom: 4px; margin-top: 30px; }
+table.mega-table, table.mega-table-filter-table, table.mega-table-subscribers-table { border-collapse: collapse; width: 929px; border-spacing: 0px; border: 0px; margin: 0 auto; }
+table.mega-table tr.mega-table-title, table.mega-table-filter-table tr.mega-table-title, .mega-table-subscribers-table tr.mega-table-title { background: transparent url('https://smartresponder.ru/imgs/static/mega-table-title-bg.gif') repeat-x left top; height: 35px; border-bottom: none; }
+table.mega-table tr.mega-table-title th, table.mega-table-filter-table tr.mega-table-title th, .mega-table-subscribers-table tr.mega-table-title th { vertical-align: middle; background: transparent url('https://smartresponder.ru/imgs/static/mega-table-title-sep-bg.gif') no-repeat left top; color: #555; text-shadow: 0 1px 1px #E9E9E9; font: bold 13px Arial,'Helvetica Neue',Helvetica,sans-serif; text-align: center; letter-spacing: 0.5px; }
+.wp_users, .wp_statistics { border-bottom: 1px dashed #C8C8C8; }
+table.mega-table tr.mega-table-title th tr td, table.mega-table-filter-table tr.mega-table-title th tr td, .mega-table-subscribers-table tr.mega-table-title th tr td { text-align: center; }
+table.mega-table tr.first td, table.mega-table-filter-table tr.first td, .mega-table-subscribers-table tr.first td { padding-top: 11px; }
+table.mega-table tr td, table.mega-table-filter-table tr td, .mega-table-subscribers-table tr td { color: #111; font: normal 14px Arial,'Helvetica Neue',Helvetica,sans-serif; text-align: center; height: 40px; vertical-align: middle; border: none; border-spacing: 0px; letter-spacing: 0.5px; }
+.mega-table-subscribers-table tr{ border-bottom: 1px dashed #C8C8C8; }
+.mega-table-filter .mega-table tr, .mega-table-filter table.mega-table-filter-table { border-bottom: 1px dashed #C8C8C8; }
+p.stats-bg { background: transparent url('https://smartresponder.ru/imgs/static/stats-bg.png') no-repeat center bottom; }
+p.stats-first { margin: 0; position: relative; overflow: hidden; clear: both; color: #252525; font: normal 15px Arial,'Helvetica Neue',Helvetica,sans-serif; padding: 25px 0 13px 0px; letter-spacing: 0.5px; white-space: nowrap; text-align: center; }
+.subscribers_buttons { width: 100%; height: 100%; margin-top: 40px; margin-bottom: 30px; }
+.subscribers_loading_img { width: 100%; height: 100%; margin-top: 15px; }
+#nextstep { margin-top: 20px; text-align: center; margin-bottom: 20px; }
+input[name="nextstep"] { width: 200px; height: 35px; cursor: pointer; }
+.wp_users_count, .wp_users_count_ch { width: 100%; margin-top: 45px; margin-left: 340px; margin-bottom: 25px; vertical-align: middle; color: #555; }
+.wp_users_count { width: 340px; }
+.wp_users_count_ch { margin-top: 30px; margin-left: 320px; font-weight: bold; }
+.wp_import_users_count { width: 490px; margin-top: 45px; margin-left: 310px; margin-bottom: 25px; vertical-align: middle; color: #555; font-weight: bold; }
+.wp_users_pagination { margin-top: 10px; margin-bottom: 10px; margin-left: 18px; text-align: left; padding: 15px; vertical-align: middle; color: #555; }
+.wp_users_message { width: 897px; margin: 0 auto; margin-top: 40px; padding: 15px; text-align: center; vertical-align: middle; background-color: #FFFCE5; color: #32373D; border: 1px solid #97621B; -webkit-border-radius: 3px; }
+.wp_users_message p { color: red; }
+.import-request-options { margin-top: 30px; margin-left: 255px; }
+.import-request-options p { text-align: center; margin-top: 10px; }
+input[name="send_request_btn"] { width: 200px; height: 35px; cursor: pointer; }
+.even { background: #F2F2F2; }
+#from, #to { cursor: pointer; background: white; }
+#users_list, #place_order { margin: 25px 0px 25px 0px; width: 993px; border: 1px solid #C8C8C8; border-radius: 5px; -moz-border-radius: 5px; background: url(https://smartresponder.ru/imgs/static/send_message/module_bg.png) top left repeat-x; }
+.user-caption, .order-caption { font-size: 14px; font-family: Verdana; font-weight: bold; padding: 11px 0px 12px 20px; cursor: pointer; background-image: url(https://smartresponder.ru/imgs/static/send_message/plus.png); background-position: right center; background-repeat: no-repeat; margin-right: 20px; }
+input[name="send_users_ch"] { margin: 2px; }
+input[name="sample"] { width: 150px; height: 25px; cursor: pointer; }
+.mega-table-filter-table td { padding: 3px; }
+.modal_import1, .modal_import2 { width: 400px; height: 250px; background: white; display: none; position: absolute; z-index: 99; top: 170px; left: 310px; border-radius: 10px; }
+.import_step_1 { margin-top: 74px; margin-left: 80px; font-weight: bold; color: #555; }
+.import_step_2 { margin-top: 54px; text-align: center; font-weight: bold; color: #555; }
+#progressbar { margin-top: 15px; margin-left: 95px; }
+.bad_import { display: none; margin-top: 25px; margin-left: 35px; font-weight: bold; color: #555; }
+.application { width: 210px; margin-top: 10px; margin-left: 96px; }
+.import_message { margin-top: 20px; margin-left: 52px; width: 300px; }
+.close_import1 { margin-left: 160px; margin-top: 45px; display: none; }
+.close_import2 { margin-left: 165px; margin-top: 30px; display: none; }
+input[name="close_import"] { width: 100px; height: 25px; cursor: pointer; }
+#progressbar { margin-top: 30px; border: 1px solid #555; width: 200px; height: 22px; }
+.progressbar_img { width: 5px; height: 22px; background-image: url(http://jqueryui.com/resources/demos/progressbar/images/pbar-ani.gif); }
+textarea, input, select { padding: 0px; }
+#resize_img_btn { height: 22px; width: 80px; }
+#ready_img_btn { height: 22px; width: 60px; }
+input[name="email_filter"], input[name="from"], input[name="to"] { height: 2em; color: #2E3192; }

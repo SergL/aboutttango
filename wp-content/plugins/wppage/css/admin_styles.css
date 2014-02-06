@@ -1,0 +1,190 @@
+/* CSS Document */
+td, th{
+    text-align: left;
+    vertical-align: top;
+}
+a{
+    outline: none!important;
+}
+
+#menu-posts-page_selling .wp-menu-name, #menu-posts-page_selling .wp-menu-arrow, #menu-posts-page_selling .wp-menu-arrow > div, #menu-posts-page_selling > a{
+    background: #30a957!important;
+    color: #ffffff;
+}
+.wppage_clear{
+    float: none;
+    clear: both;
+}
+/*  */
+.text_green{
+    color: #30A957;
+}
+.text_red{
+    color: #fa0006;
+}
+
+.border_yellow{
+    border: 1px solid #ffd333;
+}
+
+/**/
+.wpp_helper_box {
+    margin: 10px auto;
+    height: 27px;
+    line-height: 27px;
+    padding: 0 0 0 35px;
+    background: url("../i/tabs/help-video.png") left center no-repeat;
+}
+
+.wpp_helper_box a {
+    color: #30a957;
+    cursor: pointer;
+}
+.wpp_helper_box a:hover {
+    color: #30a957;
+    text-decoration: underline!important;
+}
+.popup_submit_wrap .wpp_helper_box{
+    display: block;
+    float: left;
+    margin-left: 10px;
+}
+.popup_submit_wrap .wpp_helper_box a{
+    color: #30a957;
+}
+/**/
+.tab_container p{
+    margin: 0 0 15px 0;
+}
+/**/
+#wpp_maxab .wpp_helper_box{
+    margin-top: 20px;
+}
+/* new update */
+.new_update{
+    background-image: url('../i/update.png')!important;
+    background-position: 110px center;
+    background-repeat: no-repeat;
+}
+/**/
+.wpp_message_warning, .wpp_message{
+    padding: 10px;
+    margin: 5px 0 10px;
+    border: 1px dashed #f03a3a;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    clear: both;
+    float: none;
+}
+.wppage_content_round .wpp_message{
+    color: #f03a3a;
+}
+.wpp_message_warning a, .wppage_content_round .wpp_message a{
+    text-decoration: underline!important;
+    color: #30A957!important;
+}
+/* lessons */
+.player-row {
+    border: 1px solid transparent;
+    padding: 10px 50px 10px 20px;
+}
+.player-row:hover, .player-row-active {
+    background-color: #fffce0;
+    border-color: #ffb9b9;
+}
+.player {
+    float: left;
+    display: inline;
+    width: 157px;
+    height: 99px;
+    background: url("../i/player.png") left top no-repeat;
+}
+.player img {
+    text-align: center;
+    width: 146px;
+    height: 82px;
+    display: block;
+    margin: 6px 0 0 6px;
+}
+.player-text {
+    float: left;
+    width: 500px;
+    margin: 0 0 0 14px;
+}
+.player-text h4 {
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: normal;
+    color: #000;
+    font-family: Verdana, Arial, sans-serif;
+}
+.player-text p {
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: normal;
+    color: #484948;
+    font-family: Calibri, Verdana, Arial, sans-serif;
+}
+.algorythm-wrap {
+
+    position: relative;
+    height: 400px;
+}
+.algorythm-wrap .player-wrap {
+    position: absolute;
+    width: 160px;
+}
+.algorythm-wrap .player-wrap h4 {
+    font-size: 16px;
+    line-height: 18px;
+    color: #484948;
+    font-family: Calibri, Verdana, Arial, sans-serif;
+    text-align: center;
+    font-weight: normal;
+}
+.algorythm-wrap .player-wrap p {
+    text-align: center;
+}
+.algorythm-wrap .player-wrap-1 {
+    left: 60px;
+    top: 200px;
+}
+.algorythm-wrap .player-wrap-2 {
+    left: 500px;
+    top: 200px;
+}
+.algorythm-wrap .player-wrap-3 {
+    left: 790px;
+    top: 100px;
+}
+.fancybox-youtube{
+    cursor: pointer;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/**/
+.wpp_settings_form-table{
+    width: 100%;
+}
+.wpp_settings_form-table th{
+    width: 130px;
+}
+
+#wppage_base_slug{
+    width: 300px;
+}

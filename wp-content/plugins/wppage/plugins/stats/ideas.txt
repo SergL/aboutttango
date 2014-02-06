@@ -1,0 +1,6 @@
+wppage ideas:
+
+0)
+0) save cookie on browser with count of visits of the site
+
+

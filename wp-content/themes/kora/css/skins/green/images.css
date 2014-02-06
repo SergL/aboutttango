@@ -1,0 +1,124 @@
+/* Menu */
+#Header #menu > ul > li > a {}
+#Header #menu > ul > li > a:hover, #Header #menu > ul > li.hover > a, #Header #menu > ul > li.current-menu-item > a,
+#Header #menu > ul > li.current_page_item > a, #Header #menu > ul > li.current-menu-ancestor > a, 
+#Header #menu > ul > li.current_page_ancestor > a { }
+
+/* Twitter */
+.Twitter ul li span { background: url("images/icons/ico_twitter.png") no-repeat left 5px; }
+#Footer .Twitter ul li span { background: url("images/icons/ico_twitter_footer.png") no-repeat left 5px; }
+
+/* Captions mask */
+.wp-caption .mask { background: url("images/portfolio_hover.png"); }
+
+/* Search */
+#Top_bar #searchform input[type="submit"], .widget_search form input[type="submit"] { background: url("images/search_submit.png") no-repeat !important; }
+
+/* Slider */
+#mfn-offer-slider .rslides_nav.next { background: #000 url("images/slider_next.png") no-repeat center center; }
+#mfn-offer-slider .rslides_nav.prev { background: #000 url("images/slider_prev.png") no-repeat center center; }
+
+/* Submenu */
+.widget ul.menu li.current_page_item a, .widget ul.menu li a:hover { background: url("images/submenu_hover.png") no-repeat left bottom; }
+
+/* Inputs */
+input[type="text"], input[type="password"], input[type="email"], textarea, select { background-image: url("images/bg_forms.png"); background-repeat: repeat-x; background-position: left top }
+
+/* Pager */
+.pager a.page { background: url("images/bg_pager.png") no-repeat left bottom; }
+.pager a.page.active, .pager a:hover.page { background: url("images/bg_pager_active.png") no-repeat left bottom; }
+
+/* Tabs */
+.ui-tabs .ui-tabs-nav li a { background: url("images/ui_tabs_li.png") no-repeat bottom center; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-active a { background: url("images/ui_tabs_li_selected.png") no-repeat bottom center; }
+.ui-tabs .ui-tabs-nav li {}
+.ui-tabs .ui-tabs-panel { background-image: url("images/bg_tabs_panel.png"); background-repeat: repeat-x; background-position: left top; }
+
+/* Project header */
+.Projects_header .categories li.current-cat a, .Projects_header .categories li a:hover { background: url("images/ui_tabs_li_selected.png") no-repeat bottom center; }
+.Projects_header .categories li a { background: url("images/ui_tabs_li.png") no-repeat bottom center; }
+
+/* Recent comments */
+.Recent_posts ul li .photo span.comments { background: url("images/comments.png") repeat-x left top; color: #fff; text-shadow: 1px 1px 0 #15340C; }
+
+/* Recent comments */
+.Recent_comments li span.date { background: url("images/recent_comments_date.png") no-repeat; text-shadow: 1px 1px 0 #fff; }
+#Footer .Recent_comments li span.date { background: url("images/recent_comments_date_footer.png") no-repeat; text-shadow: 1px 1px 0 #262626; }
+
+/* Offer */
+.offer .offer-slider-wrapper { background: url("images/bg_offer.png") repeat-x left top; }
+.offer .offer-slider-wrapper ul li .box { background: url("images/bg_offer_sep.png") no-repeat left bottom; }
+.offer .offer-slider-wrapper ul li .box .desc h4 { background: url("images/line_bottom.png") no-repeat left bottom; }
+
+/* Footer get in touch */
+#Footer .get_in_touch { background: url("images/bg_get_in_touch.png") no-repeat right top; }
+
+/* Recent posts */
+.Latest_posts ul li .box .desc h4 { background: url("images/line_bottom.png") no-repeat left bottom; }
+.Latest_posts ul li .box .details .comments a { border: 1px solid #E7E7E7; color: #636363; text-shadow: 1px 1px 0 #fff; background: url("images/bg_comments.png") repeat-x left top; }
+
+/* Call to action */
+.call_to_action { background: url("images/bg_call_to_action.png") no-repeat left bottom; }
+
+/* Blockquote */
+blockquote { background: url("images/bg_blockquote_arrow.png") no-repeat 40px bottom; }
+blockquote div.inside { background: url("images/bg_blockquote.png") no-repeat left bottom; color: #1f313c; text-shadow: 1px 1px 0 #fff; }
+blockquote div.inside p.bq { background: url("images/testimonials_l.png") no-repeat left top; }
+blockquote div.inside .text { background: url("images/testimonials_r.png") no-repeat right bottom; }
+blockquote div.inside p.author { background: url("images/bg_testimonials_sep.png") repeat-x left top; }
+
+/* Menu */
+#Header #menu > ul > li ul .arrow { background: url("images/menu_arrow.png") no-repeat; }
+
+/* Faq */
+.faq h5 { background: url("images/bg_accordion.png") repeat-x bottom left; }
+.faq .question h5 span.icon { background: url("images/faq_inactive.png") no-repeat; }
+.faq .active h5 span.icon { background: url("images/faq_active.png") no-repeat; }
+.faq .question .answer { background-image: url("images/bg_tabs_panel.png"); background-repeat: repeat-x; background-position: left top; }
+	
+/* Accordion */
+.accordion .question h5 span.icon { background: url("images/accordion_plus.png") no-repeat; }
+.accordion .active h5 span.icon { background: url("images/accordion_minus.png") no-repeat; }
+.accordion h5 { background: url("images/bg_accordion.png") repeat-x bottom left; }
+.accordion .question .answer { background-image: url("images/bg_tabs_panel.png"); background-repeat: repeat-x; background-position: left top; }
+
+/* Images - hover */
+.da-thumbs li a div span { background: url("images/portfolio_hover_ico.png") no-repeat center center; }
+.da-thumbs li a div { background: url("images/portfolio_hover.png"); }
+	
+/* Pricing box */
+.pricing-box .plan-header { background: url("images/pricingbox_bg.png") no-repeat bottom center; }
+.pricing-box .plan-header h3 { color: #2F2F2F; text-shadow: 1px 1px 0 #fff; }
+.pricing-box .plan-header .price { color: #fff; text-shadow: 1px 1px 0 #154F1A; }
+.pricing-box .plan-header .price > span { background: url("images/pricingbox_span.png") no-repeat bottom center; }
+
+.pricing-box-featured .plan-header { background: url("images/ui_tabs_li.png") no-repeat bottom center; }
+.pricing-box-featured .plan-header h3 { color: #010101; text-shadow: 1px 1px 0 #fff; }
+.pricing-box-featured .plan-header .price { color: #fff; text-shadow: 1px 1px 0 #154F1A; }
+
+
+/* Post */
+.post .meta .date .year { background: url("images/date_sep.png") no-repeat bottom center; }
+.post .desc_w .post_type.post_type_article { background: url("images/post_type/article.png") no-repeat; }
+
+/* Tags */
+.post .desc p.tags a, .widget_mfn_tag_cloud a { color: #767676 !important; background: #F8F8F8; text-shadow: 1px 1px 0 #fff; border: 1px solid #E8E8E8; }
+.post .desc p.tags a span, .widget_mfn_tag_cloud a span { background: #F8F8F8; }
+.post .desc p.tags a:hover, .widget_mfn_tag_cloud a:hover { color: #1b1b1b !important; border: 1px solid #d5d5d5; }
+.post .desc p.tags a:hover span, .widget_mfn_tag_cloud a:hover span {}
+
+/* Our team */
+.team .desc .links a { background: url("images/bg_pager.png") no-repeat left bottom; } 
+.team .desc .links a:hover i { opacity: 0.5; filter: alpha(opacity=50); -webkit-transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out; transition: all 0.3s ease-out; }
+ 
+
+/*  */
+.widget_calendar caption { background: url(../../ui/images/bg_widget_header.png) no-repeat 0 0; }
+
+/* Footer */
+#Footer .copyrights { background: url("images/hr_footer.png") repeat-x left top !important; }
+#Footer .copyrights .menu_bottom > ul > li > a { background: url("images/menu_bottom_sep.png") no-repeat right center; }
+
+/* HR */
+hr { background: url("images/hr.png") repeat-x left top; }
+#Footer hr { background: url("images/hr_footer.png") repeat-x left top; }

@@ -1,0 +1,390 @@
+
+/* video borders */
+.video_wrap{
+    display: block;
+    margin: 10px auto;
+}
+.video_wrap object, .video_wrap iframe{
+    margin: 0!important;
+    padding: 0!important;
+    border: none!important;
+}
+.video_normal_normal object, .video_normal_normal iframe{
+    margin: 0 auto!important;
+}
+.video_margin_center{
+    text-align: center;
+}
+.video_margin_center object, .video_margin_center iframe{
+    margin: 0 auto!important;
+}
+.video_1_720x405{
+    width: 760px;
+    height: 461px;
+    background: url("http://static.wppage.ru/wppage/i/video/1/720x405.png");
+}
+.video_1_720x405 .v_box{
+    margin: 0;
+    padding: 20px 0 0 20px;
+}
+.video_1_640x360{
+    width: 676px;
+    height: 408px;
+    background: url("http://static.wppage.ru/wppage/i/video/1/640x360.png");
+}
+.video_1_640x360 .v_box{
+    margin: 0;
+    padding: 15px 0 0 15px;
+}
+.video_1_560x315{
+    width: 590px;
+    height: 358px;
+    background: url("http://static.wppage.ru/wppage/i/video/1/560x315.png");
+}
+.video_1_560x315 .v_box{
+    margin: 0;
+    padding: 15px 0 0 13px;
+}
+.video_1_480x270{
+    width: 506px;
+    height: 309px;
+    background: url("http://static.wppage.ru/wppage/i/video/1/480x270.png");
+}
+.video_1_480x270 .v_box{
+    margin: 0;
+    padding: 13px 0 0 13px;
+}
+
+.video_2_720x405{
+    width: 803px;
+    height: 455px;
+    background: url("http://static.wppage.ru/wppage/i/video/2/720x405.png");
+}
+.video_2_720x405 .v_box{
+    margin: 0;
+    padding: 0 0 0 42px;
+}
+.video_2_640x360{
+    width: 715px;
+    height: 404px;
+    background: url("http://static.wppage.ru/wppage/i/video/2/640x360.png");
+}
+.video_2_640x360 .v_box{
+    margin: 0;
+    padding: 0 0 0 38px;
+}
+.video_2_560x315{
+    width: 628px;
+    height: 353px;
+    background: url("http://static.wppage.ru/wppage/i/video/2/560x315.png");
+}
+.video_2_560x315 .v_box{
+    margin: 0;
+    padding: 0 0 0 34px;
+}
+.video_2_480x270{
+    width: 537px;
+    height: 303px;
+    background: url("http://static.wppage.ru/wppage/i/video/2/480x270.png");
+}
+.video_2_480x270 .v_box{
+    margin: 0;
+    padding: 0 0 0 29px;
+}
+
+.video_3_720x405{
+    width: 831px;
+    height: 509px;
+    background: url("http://static.wppage.ru/wppage/i/video/3/720x405.png");
+}
+.video_3_720x405 .v_box{
+    margin: 0;
+    padding: 10px 0 0 60px;
+}
+.video_3_640x360{
+    width: 740px;
+    height: 452px;
+    background: url("http://static.wppage.ru/wppage/i/video/3/640x360.png");
+}
+.video_3_640x360 .v_box{
+    margin: 0;
+    padding: 9px 0 0 55px;
+}
+.video_3_560x315{
+    width: 647px;
+    height: 397px;
+    background: url("http://static.wppage.ru/wppage/i/video/3/560x315.png");
+}
+.video_3_560x315 .v_box{
+    margin: 0;
+    padding: 7px 0 0 45px;
+}
+.video_3_480x270{
+    width: 555px;
+    height: 341px;
+    background: url("http://static.wppage.ru/wppage/i/video/3/480x270.png");
+}
+.video_3_480x270 .v_box{
+    margin: 0;
+    padding: 6px 0 0 40px;
+}
+
+.video_4_720x405{
+    width: 763px;
+    height: 482px;
+    background: url("http://static.wppage.ru/wppage/i/video/4/720x405.png");
+}
+.video_4_720x405 .v_box{
+    margin: 0;
+    padding: 21px 0 0 22px;
+}
+.video_4_640x360{
+    width: 680px;
+    height: 428px;
+    background: url("http://static.wppage.ru/wppage/i/video/4/640x360.png");
+}
+.video_4_640x360 .v_box{
+    margin: 0;
+    padding: 19px 0 0 20px;
+}
+.video_4_560x315{
+    width: 596px;
+    height: 374px;
+    background: url("http://static.wppage.ru/wppage/i/video/4/560x315.png");
+}
+.video_4_560x315 .v_box{
+    margin: 0;
+    padding: 17px 0 0 18px;
+}
+.video_4_480x270{
+    width: 512px;
+    height: 321px;
+    background: url("http://static.wppage.ru/wppage/i/video/4/480x270.png");
+}
+.video_4_480x270 .v_box{
+    margin: 0;
+    padding: 15px 0 0 16px;
+}
+/**/
+.video_5_720x405{
+    width: 845px;
+    height: 507px;
+    background: url("http://static.wppage.ru/wppage/i/video/5/720x405.png");
+}
+.video_5_720x405 .v_box{
+    margin: 0;
+    padding: 22px 0 0 67px;
+}
+.video_5_640x360{
+    width: 761px;
+    height: 450px;
+    background: url("http://static.wppage.ru/wppage/i/video/5/640x360.png");
+}
+.video_5_640x360 .v_box{
+    margin: 0;
+    padding: 19px 0 0 60px;
+}
+.video_5_560x315{
+    width: 666px;
+    height: 394px;
+    background: url("http://static.wppage.ru/wppage/i/video/5/560x315.png");
+}
+.video_5_560x315 .v_box{
+    margin: 0;
+    padding: 17px 0 0 53px;
+}
+.video_5_480x270{
+    width: 573px;
+    height: 339px;
+    background: url("http://static.wppage.ru/wppage/i/video/5/480x270.png");
+}
+.video_5_480x270 .v_box{
+    margin: 0;
+    padding: 15px 0 0 47px;
+}
+/**/
+.video_6_720x405{
+    width: 769px;
+    height: 455px;
+    background: url("http://static.wppage.ru/wppage/i/video/6/720x405.png");
+}
+.video_6_720x405 .v_box{
+    margin: 0;
+    padding: 24px 0 0 24px;
+}
+.video_6_640x360{
+    width: 682px;
+    height: 402px;
+    background: url("http://static.wppage.ru/wppage/i/video/6/640x360.png");
+}
+.video_6_640x360 .v_box{
+    margin: 0;
+    padding: 20px 0 0 20px;
+}
+.video_6_560x315{
+    width: 598px;
+    height: 353px;
+    background: url("http://static.wppage.ru/wppage/i/video/6/560x315.png");
+}
+.video_6_560x315 .v_box{
+    margin: 0;
+    padding: 18px 0 0 18px;
+}
+.video_6_480x270{
+    width: 514px;
+    height: 304px;
+    background: url("http://static.wppage.ru/wppage/i/video/6/480x270.png");
+}
+.video_6_480x270 .v_box{
+    margin: 0;
+    padding: 16px 0 0 16px;
+}
+/**/
+.video_7_720x405{
+    width: 769px;
+    height: 497px;
+    background: url("http://static.wppage.ru/wppage/i/video/7/720x405.png");
+}
+.video_7_720x405 .v_box{
+    margin: 0;
+    padding: 45px 0 0 24px;
+}
+.video_7_640x360{
+    width: 684px;
+    height: 444px;
+    background: url("http://static.wppage.ru/wppage/i/video/7/640x360.png");
+}
+.video_7_640x360 .v_box{
+    margin: 0;
+    padding: 40px 0 0 22px;
+}
+.video_7_560x315{
+    width: 598px;
+    height: 389px;
+    background: url("http://static.wppage.ru/wppage/i/video/7/560x315.png");
+}
+.video_7_560x315 .v_box{
+    margin: 0;
+    padding: 35px 0 0 19px;
+}
+.video_7_480x270{
+    width: 514px;
+    height: 335px;
+    background: url("http://static.wppage.ru/wppage/i/video/7/480x270.png");
+}
+.video_7_480x270 .v_box{
+    margin: 0;
+    padding: 31px 0 0 17px;
+}
+/**/
+.video_8_720x405{
+    width: 812px;
+    height: 579px;
+    background: url("http://static.wppage.ru/wppage/i/video/8/720x405.png");
+}
+.video_8_720x405 .v_box{
+    margin: 0;
+    padding: 47px 0 0 46px;
+}
+.video_8_640x360{
+    width: 722px;
+    height: 515px;
+    background: url("http://static.wppage.ru/wppage/i/video/8/640x360.png");
+}
+.video_8_640x360 .v_box{
+    margin: 0;
+    padding: 42px 0 0 41px;
+}
+.video_8_560x315{
+    width: 633px;
+    height: 451px;
+    background: url("http://static.wppage.ru/wppage/i/video/8/560x315.png");
+}
+.video_8_560x315 .v_box{
+    margin: 0;
+    padding: 37px 0 0 36px;
+}
+.video_8_480x270{
+    width: 543px;
+    height: 388px;
+    background: url("http://static.wppage.ru/wppage/i/video/8/480x270.png");
+}
+.video_8_480x270 .v_box{
+    margin: 0;
+    padding: 32px 0 0 31px;
+}
+/**/
+.video_9_720x405{
+    width: 854px;
+    height: 493px;
+    background: url("http://static.wppage.ru/wppage/i/video/9/720x405.png");
+}
+.video_9_720x405 .v_box{
+    margin: 0;
+    padding: 40px 0 0 58px;
+}
+.video_9_640x360{
+    width: 759px;
+    height: 436px;
+    background: url("http://static.wppage.ru/wppage/i/video/9/640x360.png");
+}
+.video_9_640x360 .v_box{
+    margin: 0;
+    padding: 36px 0 0 52px;
+}
+.video_9_560x315{
+    width: 664px;
+    height: 382px;
+    background: url("http://static.wppage.ru/wppage/i/video/9/560x315.png");
+}
+.video_9_560x315 .v_box{
+    margin: 0;
+    padding: 32px 0 0 45px;
+}
+.video_9_480x270{
+    width: 569px;
+    height: 329px;
+    background: url("http://static.wppage.ru/wppage/i/video/9/480x270.png");
+}
+.video_9_480x270 .v_box{
+    margin: 0;
+    padding: 26px 0 0 40px;
+}
+/**/
+.video_10_720x405{
+    width: 791px;
+    height: 465px;
+    background: url("http://static.wppage.ru/wppage/i/video/10/720x405.png");
+}
+.video_10_720x405 .v_box{
+    margin: 0;
+    padding: 0 0 0 34px;
+}
+.video_10_640x360{
+    width: 704px;
+    height: 414px;
+    background: url("http://static.wppage.ru/wppage/i/video/10/640x360.png");
+}
+.video_10_640x360 .v_box{
+    margin: 0;
+    padding: 0 0 0 30px;
+}
+.video_10_560x315{
+    width: 616px;
+    height: 363px;
+    background: url("http://static.wppage.ru/wppage/i/video/10/560x315.png");
+}
+.video_10_560x315 .v_box{
+    margin: 0;
+    padding: 0 0 0 27px;
+}
+.video_10_480x270{
+    width: 528px;
+    height: 311px;
+    background: url("http://static.wppage.ru/wppage/i/video/10/480x270.png");
+}
+.video_10_480x270 .v_box{
+    margin: 0;
+    padding: 0 0 0 23px;
+}
+/**/

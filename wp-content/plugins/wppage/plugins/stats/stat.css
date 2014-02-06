@@ -1,0 +1,102 @@
+.wpp_stat_page_link{
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+    margin: 0 10px 0 20px;
+    cursor: pointer;
+    background-image: url("img/external_link.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+.wpp_stat_page_link:hover{
+    background-position: left bottom;
+}
+.wpp_stat_ico{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin: 0 10px 0 0;
+    background-image: url('img/stat.png') ;
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+a:hover .wpp_stat_ico{
+    background-position: left bottom;
+}
+.wppage_table_stat td{
+    padding: 5px;
+}
+.wppage_table_stat .id_col{
+    width: 20px;
+    padding-right: 15px ;
+    text-align: right;
+}
+
+
+/* stat */
+.wppage_date_box{
+    float: left;
+    margin: 15px 20px 5px 0;
+}
+.wppage_search_box{
+    float: right;
+    margin: 15px 0 5px 20px;
+}
+
+.wpp_stat_table{
+
+}
+.wpp_stat_table td, .wpp_stat_table th{
+    padding: 5px;
+}
+.wpp_stat_table .wpp_col_num{
+    width: 30px;
+}
+/**/
+.stats_icon_big{
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background: url("img/stats_big.png");
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.conversion_icon_big{
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background: url("img/conversion_big.png");
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.external_link_big{
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin: 0 0 0 20px;
+    background-image: url('img/external_link_big.png') ;
+    background-position: left top;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+
+a:hover .external_link_big{
+    background-position: left bottom;
+}
+.single_stats_title{
+    line-height: 32px!important;
+}
+.stats_box_350{
+    width: 350px;
+    float: left;
+    margin: 10px 20px 20px 0;
+}
+.stats_box_720{
+    width: 720px;
+    float: left;
+    margin: 10px 20px 20px 0;
+}
+/**/
+.wpp_stat_type td{
+    font-weight: bold;
+}

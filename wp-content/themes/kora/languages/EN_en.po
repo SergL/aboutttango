@@ -1,0 +1,2426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bretheon\n"
+"POT-Creation-Date: 2013-02-07 12:43+0100\n"
+"PO-Revision-Date: 2013-02-07 12:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: Muffin group <muffingroupcom@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\bretheon-dev\\wp-content\\themes"
+"\\bretheon\n"
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/404.php:12
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1599
+msgid "Упс... Ошибка 404"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/404.php:13
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1607
+msgid "Извините, но страницы, которую вы ищете, не существует."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/404.php:14
+msgid "Пожалуйста, проверьте введенный адрес и попробуйте еще раз <em>или</em>"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/404.php:15
+msgid "перейти на главную"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/comments.php:9
+msgid ""
+"Запись защищена паролем. Введите пароль, чтобы увидеть комментарии."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/comments.php:28
+msgid "&larr; Старые Комментарии"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/comments.php:29
+msgid "Следующие Комментарии &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/comments.php:36
+msgid "Комментарии закрыты."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/header.php:30
+#, php-format
+msgid "Страница %s"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/index.php:46
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/search.php:46
+msgid "&larr; Старые Записи"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/index.php:47
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/search.php:47
+msgid "Следующие записи &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/searchform.php:10
+msgid "Введите условия поиска"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/taxonomy-portfolio-types.php:24
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/template-portfolio.php:26
+msgid "Выбирите категорию:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/taxonomy-portfolio-types.php:25
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/template-portfolio.php:27
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:48
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1413
+msgid "Все"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/template-archives.php:24
+msgid "Доступные страницы"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/template-archives.php:31
+msgid "20 Последних записей"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/template-archives.php:47
+msgid "Архивы по темам"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/template-archives.php:63
+msgid "Архивы по месяцам"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:18
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:332
+msgid "Клиенты"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:19
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:163
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1449
+msgid "Клиент"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:20
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:20
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:20
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:20
+msgid "Добавить"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:21
+msgid "Добавить клиента"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:22
+msgid "Ред клиента"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:23
+msgid "Новые клиент"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:24
+msgid "Показать клиентов"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:25
+msgid "Найти клиентов"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:26
+msgid "Клиент не найден"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:27
+msgid "Клиентов нет"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:56
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:56
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:64
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:56
+msgid "Миниатюра"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:58
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:641
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:696
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:825
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:58
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:67
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:58
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:286
+msgid "Заказ"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:92
+msgid "Параметры клиента"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:101
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:283
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:564
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:800
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:880
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:101
+msgid "Ссылка"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-client.php:102
+msgid "Ссылка на сайт клиента"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:64
+msgid "-- Выбрать --"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:65
+msgid "- Предложение Slider’у -"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:89
+msgid "Цвет "
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:175
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:182
+msgid "Аккордеон"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:183
+msgid "Менеджер аккардеон окон."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:192
+msgid "Коробка статьи"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:199
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:532
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:539
+msgid "Изображение"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:200
+msgid "Особое изображение."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:201
+msgid "Рекомендованный размер 380px x 320px."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:207
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:775
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:135
+msgid "Цвет фона"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:209
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:777
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:137
+msgid ""
+"Пожалуйста, выберите один из доступных цветов выше."
+"<b>Предопределенные Скины</b> цвета буду браться из CSS скинов, но "
+"Если вы используете <b>Станжартный Скин</b> вы можете определить свои собственные цвета в "
+"Настройки темы > Цвета > Разделы коробок."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:215
+msgid "Слоган"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:216
+msgid "Призыв к действию текста над заголовком."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:222
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:394
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:441
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:660
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:721
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:768
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:844
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1598
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/tabs/field_tabs.php:34
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/tabs/field_tabs.php:45
+msgid "Заголовок"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:223
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:722
+msgid "Будет также использован в качестве альтернативного текста изображения."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:229
+msgid "Текст кнопки"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:230
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:237
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:111
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:118
+msgid "Кнопка появится только тогда, когда это поле будет заполнено."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:236
+msgid "Ссылка кнопки"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:243
+msgid "Открыть в новом окне"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:245
+msgid "Открыть ссылку в новом окне."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:246
+msgid "Добавляет target=\"_blank\" атрибуты к ссылке."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:255
+msgid "Цитата"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:262
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:357
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:456
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:865
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:786
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1283
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/tabs/field_tabs.php:36
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/tabs/field_tabs.php:47
+msgid "Содержание"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:263
+msgid "Содержание цитаты."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:264
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:407
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:866
+msgid "HTML теги разрешены."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:270
+msgid "Автор"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:276
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:791
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:873
+msgid "Ссылка заголовка"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:277
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:284
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:793
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:802
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:874
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:881
+msgid "Ссылка будет только тогда, когда это поле будет заполнено."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:294
+msgid "Призыв к действию"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:301
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:103
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1614
+msgid "Текст"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:302
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:415
+msgid "Перенесите текст в \"span\" тег, чтобы выделить его."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:308
+msgid "Заголовок кнопки"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:309
+msgid "Свяжитесь с нами"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:315
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:117
+msgid "Ссылка кнопки"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:321
+msgid "Класс"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:322
+msgid ""
+"та опция полезна, когда вы хотите использовать Fancybox(Fancybox) и видео"
+"Iframe (iframe)."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:339
+msgid "Количество элементов"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:341
+msgid "Количество элементов для отображения"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:350
+msgid "Код"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:368
+msgid "Колонка"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:375
+msgid "Содержание колонки"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:376
+msgid "Shortcodes и HTML теги разрешены."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:387
+msgid "Коробка контактов"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:400
+msgid "Телефон"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:406
+msgid "Адрес"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:413
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:447
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:419
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:746
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:452
+msgid "Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:428
+msgid "Контактная форма"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:435
+msgid "Пожалуйста, не включайте несколько контактных форм на одной странице."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:463
+msgid ""
+"Добавление этого товара показывать содержимое для WordPress редактора выше Страницы параметров. "
+"Вы можете использовать это время только один раз на странице. Пожалуйста, не забудьте выключить "
+"\"Show The Content\" опция."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:469
+msgid "Внутренняя горизонтальная обивка"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:477
+msgid "Нижняя граница"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:478
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:497
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:931
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:940
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:966
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:975
+msgid "px"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:489
+msgid "Делитель"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:496
+msgid "Делитель высоты"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:504
+msgid "Показать линии"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:506
+msgid "Показать горизонтальную линию в качестве разделителя."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:515
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:522
+msgid "FAQ"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:523
+msgid "Менеджер FAQ окон."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:545
+msgid "Альтернативный текст"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:551
+msgid "Подпись"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:557
+msgid "Увеличенное изображение"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:558
+msgid "Это изображение будет открыто в лайтбокс."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:565
+msgid ""
+"Эта ссылка будет работать только тогда, когда вы оставите выше поле \ "Увеличенное изображение \" пустым."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:571
+msgid "Граница"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:582
+msgid "Карта"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:589
+msgid "Карты Google Lat"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:591
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:599
+msgid "Карта появится только тогда, когда это поле заполняется правильно."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:597
+msgid "Карты Google Lng"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:605
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:939
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:974
+msgid "Высота"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:614
+msgid "Увеличить"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:625
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:674
+msgid "Страница предложении"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:632
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:687
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:816
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:277
+msgid "Сортировать по"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:633
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:688
+msgid "Предлагать продукцию по столбцам."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:642
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:697
+msgid "Порядок предожения продукцию."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:653
+msgid "Slider предложении"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:667
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:728
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1606
+msgid "Подзаголовок"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:680
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:783
+msgid "Считать"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:708
+msgid "Наша команда"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:715
+msgid "Фото"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:734
+msgid "E-mail"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:740
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:436
+msgid "Facebook"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:752
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:484
+msgid "LinkedIn"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:761
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:18
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:230
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1405
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1414
+msgid "Портфолио"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:792
+msgid "Ссылки подробнее"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:794
+msgid "Проверить все"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:801
+msgid "Ссылка подробнее"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:808
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1422
+msgid "Категория"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:810
+msgid "Выбирите категорию для записей портфолио."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:817
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:278
+msgid "Порядок элементов в портфолио по столбцам."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:826
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:287
+msgid "Портфолио заказов."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:837
+msgid "Цена товара"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:845
+msgid "Pricing item title"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:851
+msgid "Цена"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:858
+msgid "Валюта"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:887
+msgid "Рекомендуемые"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:889
+msgid "This pricing item will be featured."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:890
+msgid "Featured item is bigger and has different color."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:899
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:906
+msgid "Tabs"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:907
+msgid "Manage tabs."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:916
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:460
+msgid "Vimeo"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:923
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:145
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:48
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:143
+msgid "Vimeo video ID"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:924
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:147
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:49
+msgid ""
+"It`s placed in every Vimeo video link after the last /,for example: http://"
+"vimeo.com/<b>1084537</b>"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:930
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:965
+msgid "Width"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:951
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:468
+msgid "YouTube"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:958
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:154
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:56
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:151
+msgid "YouTube video ID"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-functions.php:959
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:156
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:57
+msgid ""
+"It`s placed in every YouTube video link after <b>v=</b> parameter, for "
+"example: http://www.youtube.com/watch?v=<b>YE7VzlLtp-4</b>"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:18
+msgid "Offer"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:19
+msgid "Offer Item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:21
+msgid "Add New Item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:22
+msgid "Edit Item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:23
+msgid "New Item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:24
+msgid "View Item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:25
+msgid "Search Offer Items"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:26
+msgid "No items found"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:27
+msgid "No items found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:92
+msgid "Offer Item Options"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-offer.php:102
+msgid "Link to offer`s site"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:17
+msgid "Page Options"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:26
+msgid "Show the content"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:27
+msgid "Show the content from the WordPress editor."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:28
+msgid ""
+"Turn it off if you build content using Content Builder. (Use the Content "
+"item if you want to display the Content from editor within the Content "
+"Builder)."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:36
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:113
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:26
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:31
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:246
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:369
+msgid "Layout"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:37
+msgid "Select layout for this page"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:49
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:126
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:39
+msgid "Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:50
+msgid "Select sidebar for this page."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:51
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:128
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:41
+msgid "Shows only if layout with sidebar is selected."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:58
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:64
+msgid "Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:59
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:65
+msgid "Select slider for this page."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:60
+msgid ""
+"Select Muffin Offer Slider or one from the list of available <a href=\"admin."
+"php?page=revslider\">Revolution Sliders</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:67
+msgid "SEO Title"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:68
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:75
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:82
+msgid "These settings overriddes theme options settings."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:74
+msgid "SEO Description"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-page.php:81
+msgid "SEO Keywords"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:19
+msgid "Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:21
+msgid "Add New Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:22
+msgid "Edit Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:23
+msgid "New Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:24
+msgid "View Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:25
+msgid "Search Portfolio items"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:26
+msgid "No portfolio items found"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:27
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:48
+msgid "Portfolio categories"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:49
+msgid "Portfolio category"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:66
+msgid "Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:104
+msgid "Portfolio Item Options"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:114
+msgid "Select layout for this portfolio item."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:127
+msgid "Select sidebar for this portfolio item."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:135
+msgid "Show Recent Work"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:136
+msgid "Show Recent Work at the bottom of the page."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:137
+msgid "This setting overriddes theme options settings."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:146
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:155
+msgid "Please also set featured image"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:164
+msgid "Project description: Client."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:170
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1458
+msgid "Дата"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:171
+msgid "Описание проекта: Дата."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:177
+msgid "Показать котегории"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:185
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1467
+msgid "URL Проекта"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-portfolio.php:186
+msgid "Project description: Project URL."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:17
+msgid "Post Options"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:27
+msgid "Select layout for this post"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:40
+msgid "Select sidebar for this post"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:66
+msgid ""
+"Select slider from the list of available <a href=\"admin.php?page=revslider"
+"\">Revolution Sliders</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:73
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:160
+msgid "Show Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:74
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:83
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:92
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:101
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:110
+msgid "These setting overriddes theme options settings."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:82
+msgid "Show Comments number"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:91
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:180
+msgid "Show Date"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:100
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:190
+msgid "Show Tags"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-post.php:109
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:200
+msgid "Social network sharing"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:18
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:306
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:952
+msgid "Slider Offer"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:19
+msgid "Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:21
+msgid "Add New Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:22
+msgid "Edit Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:23
+msgid "New Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:24
+msgid "View Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:25
+msgid "Search Slides"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:26
+msgid "No slides found"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:27
+msgid "No slides found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:94
+msgid "Slide Options"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:104
+msgid "Slide content text."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:110
+msgid "Button text"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:124
+msgid "Image position"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:144
+msgid ""
+"It’s placed in every Vimeo video link after the last /, for example: http://"
+"vimeo.com/<b>1084537</b>"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/meta-slide.php:152
+msgid ""
+"It’s placed in every YouTube video link after v= parameter.<br /><br />For "
+"example: http://www.youtube.com/watch?v=<b>YE7VzlLtp-4</b>"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-functions.php:61
+msgid "Следующая страница &rsaquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-functions.php:62
+msgid "&lsaquo; Предыдущая страница"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-functions.php:132
+#, php-format
+msgid "Просмотреть все записи в рубрике %s"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-functions.php:188
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1369
+msgid "Главная"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-functions.php:189
+msgid "Вы здесь:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-functions.php:197
+msgid "Архив категории"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-menu.php:14
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:649
+msgid "Main menu"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-menu.php:15
+msgid "Footer menu"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:214
+msgid "Номер телефона:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:215
+msgid "Ваш адрес:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:216
+msgid "email адрес:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:217
+msgid "twitter:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:255
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1538
+msgid "Имя"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:256
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1547
+msgid "E-mail"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:257
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1556
+msgid "Тема"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:258
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1565
+msgid "Отправить сообщение"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:259
+msgid "Спасибо, ваше письмо было отправлено."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/theme-shortcodes.php:260
+msgid "Ошибка отправления сообщения. Пожалуйста, попробуйте позже."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-clients.php:17
+msgid "Use this widget on pages to display Clients Slider."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-clients.php:18
+msgid "Muffin Clients Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-clients.php:87
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-flickr.php:71
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-menu.php:103
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-recent-comments.php:84
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-recent-posts.php:88
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-tag-cloud.php:89
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-twitter.php:71
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/plugins/dropdown-menus.php:235
+msgid "Заголовок:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-flickr.php:17
+msgid "Use this widget on pages to display photos from Flickr photostream."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-flickr.php:18
+msgid "Muffin Flickr"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-flickr.php:76
+msgid "Flickr User ID:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-flickr.php:78
+msgid ""
+"Use <a href=\"http://idgettr.com/\" target=\"_blank\">this</a> tool to find "
+"your Flickr user ID"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-flickr.php:82
+msgid "Number of photos:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-flickr.php:89
+msgid "Latest uploads"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-flickr.php:92
+msgid "Random photos"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-functions.php:49
+msgid "Footer area"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-menu.php:17
+msgid ""
+"Use this widget on pages to display aside menu with children or siblings of "
+"the current page"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-menu.php:18
+msgid "Muffin Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-menu.php:109
+msgid "Use current page title"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-menu.php:114
+msgid "Show page siblings"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-menu.php:117
+msgid "Show page children"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-menu.php:120
+msgid "Show page children (if there is no children, show siblings)"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-recent-comments.php:17
+msgid "The most recent comments."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-recent-comments.php:18
+msgid "Muffin Recent Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-recent-comments.php:49
+msgid "commented on"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-recent-comments.php:89
+msgid "Number of comments:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-recent-posts.php:17
+msgid "The most recent posts on your site."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-recent-posts.php:18
+msgid "Muffin Recent Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-recent-posts.php:93
+msgid "Number of posts:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-tag-cloud.php:17
+msgid "Your most used tags in cloud format ."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-tag-cloud.php:18
+msgid "Muffin Tag Cloud"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-tag-cloud.php:94
+msgid "Number of tags:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-tag-cloud.php:100
+msgid "Taxonomy:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-tag-cloud.php:109
+msgid "Order by:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-tag-cloud.php:117
+msgid "Order:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-twitter.php:17
+msgid "Use this widget on pages to display photos from Twitter photostream."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-twitter.php:18
+msgid "Muffin Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-twitter.php:76
+msgid "Twitter Username:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/widget-twitter.php:81
+msgid "Number of tweets:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/plugins/dropdown-menus.php:192
+msgid "Use this widget to add one of your custom menus as a dropdown."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/plugins/dropdown-menus.php:193
+msgid "Dropdown Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/plugins/dropdown-menus.php:230
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/plugins/dropdown-menus.php:239
+msgid "Select Menu:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/tinymce/popup.php:6
+msgid "You don't have permissions"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/tinymce/popup.php:13
+msgid "Shortcode Panel"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/tinymce/popup.php:31
+msgid "Shortcode"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/tinymce/popup.php:33
+msgid "select"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/tinymce/popup.php:81
+msgid "Cancel"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/functions/tinymce/popup.php:85
+msgid "Insert"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-post.php:10
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single-portfolio.php:13
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single.php:10
+msgid "Категория:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-post.php:11
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single.php:11
+msgid "Комментарии:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single-portfolio.php:10
+msgid "Описание проекта:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single-portfolio.php:11
+msgid "Клиент:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single-portfolio.php:12
+msgid "Дата:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single-portfolio.php:14
+msgid "URL проекта:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single-portfolio.php:15
+msgid "Посетить &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single-portfolio.php:16
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1485
+msgid "Назад к списку"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/includes/content-single.php:107
+msgid "Страницы:"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/options.php:42
+msgid "Theme Options - Bretheon"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/options.php:44
+msgid "Bretheon Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/options.php:454
+msgid "Preview theme"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/options.php:459
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/options.php:470
+msgid "Save Changes"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:24
+msgid "Getting started"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:38
+msgid "Colors"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:45
+msgid "Fonts"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:52
+msgid "Translate"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:65
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:347
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:563
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1336
+msgid "General"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:72
+msgid "Responsive"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:73
+msgid ""
+"<b>Notice:</b> Responsive menu is working only with WordPress custom menu, "
+"please add one in Appearance > Menus and select it for Theme Locations "
+"section. <a href=\"http://en.support.wordpress.com/menus/\" target=\"_blank"
+"\">http://en.support.wordpress.com/menus/</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:81
+msgid "Use built-in SEO fields"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:82
+msgid "Turn it off if you want to use external SEO plugin."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:90
+msgid "Meta Description"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:91
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:99
+msgid "These setting may be overridden for single posts & pages."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:98
+msgid "Meta Keywords"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:105
+msgid "Google Analytics"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:106
+msgid "Paste your Google Analytics code here."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:114
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:134
+msgid "Sidebars"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:121
+msgid "Default Layout"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:122
+msgid "Default post or page sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:135
+msgid "Manage custom sidebars"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:136
+msgid "Sidebars can be used on pages, blog and portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:144
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1432
+msgid "Blog"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:151
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:237
+msgid "Posts per page"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:152
+msgid "Number of posts per page."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:161
+msgid "Show categories on single post."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:162
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:172
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:182
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:192
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:202
+msgid "These setting may be overridden for single posts."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:170
+msgid "Показать Комментарии"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:171
+msgid "Show comments number on posts list and single post."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:181
+msgid "Show date on posts list and single post."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:191
+msgid "Show tags list on posts list and single post."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:201
+msgid "Show social network sharing on single post."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:210
+msgid "Подробнее"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:211
+msgid "Read more button text."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:212
+msgid "Leave blank if you don`t want the buttons on blog page."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:219
+msgid "All pages in pagination"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:220
+msgid ""
+"Show all of the pages instead of a short list of the pages near the current "
+"page."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:238
+msgid "Number of portfolio posts per page."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:247
+msgid "Layout for portfolio items list."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:259
+msgid "Portfolio Page"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:260
+msgid "Assign page for portfolio."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:267
+msgid "Single item slug"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:268
+msgid "Link to single item."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:269
+msgid ""
+"<b>Important:</b> Do not use characters not allowed in links. <br /><br /"
+">Must be different from the Portfolio site title chosen above, ex. "
+"\"portfolio-item\". After change please go to \"Settings > Permalinks\" and "
+"click \"Save changes\" button."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:295
+msgid "jQuery filtering"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:296
+msgid ""
+"When this option is enabled, portfolio looks great with all projects on "
+"single site, so please set \"Posts per page\" option to bigger number"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:313
+msgid "Timeout"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:314
+msgid "Milliseconds between slide transitions."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:315
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:335
+msgid "This option can be used only with Autoplay."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:323
+msgid "Autoplay"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:324
+msgid "Auto transition between slides."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:325
+msgid "This option can be used only with Timeout > 0."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:333
+msgid "Pause on Hover"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:334
+msgid "Pause slider on slide or pager hover."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:353
+msgid "Custom Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:354
+msgid "Custom logo image"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:355
+msgid "The best size for logo is 220px x 70px."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:361
+msgid "Custom Favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:362
+msgid "Site favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:363
+msgid "Please use ICO format only"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:370
+msgid "Layout type"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:381
+msgid "Overlay"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:382
+msgid "Boxed Layout Overlay"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:383
+msgid ""
+"This option can be used <strong>only</strong> with Layout: Boxed.<br /"
+">Please note that not every overlay is transparent."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:407
+msgid "Background image"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:408
+msgid "This option can be used <strong>only</strong> with Layout: Boxed."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:414
+msgid "Header Telephone number"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:421
+msgid "Header Email address"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:429
+msgid "Social Icons"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:437
+msgid "Type your Facebook link here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:438
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:446
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:454
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:462
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:470
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:478
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:486
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:494
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:502
+msgid "Icon won`t show if you leave this field blank"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:444
+msgid "Google +"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:445
+msgid "Type your Google + link here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:453
+msgid "Type your Twitter link here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:461
+msgid "Type your Vimeo link here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:469
+msgid "Type your YouTube link here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:476
+msgid "Flickr"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:477
+msgid "Type your Flickr link here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:485
+msgid "Type your LinkedIn link here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:492
+msgid "Pinterest"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:493
+msgid "Type your Pinterest link here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:500
+msgid "Dribbble"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:501
+msgid "Type your Dribbble link here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:510
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:863
+msgid "Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:516
+msgid "Footer Layout"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:517
+msgid "Footer Layout type"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:528
+msgid "Footer Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:529
+msgid "Custom footer logo image"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:530
+msgid "The best size for logo is 150px x 30px."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:536
+msgid "Copyright Text"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:537
+msgid ""
+"You can delete all information about author but we would appreciate it if "
+"you decide to leave them."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:546
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:552
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:553
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:570
+msgid "Theme Skin"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:571
+msgid "Choose one of the predefined styles or set your own colors."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:572
+msgid "<b>Important:</b> Color options can be used only with the Custom Skin."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:588
+msgid "Body background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:589
+msgid "This option works <strong>only</strong> with Layout: Boxed."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:596
+msgid "Wrapper background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:605
+msgid "Boxes"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:612
+msgid "Background color 1"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:619
+msgid "Background color 2"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:626
+msgid "Background color 3"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:633
+msgid "Background color 4"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:640
+msgid "Background color 5"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:656
+msgid "Menu Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:663
+msgid "Menu Arrow color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:670
+msgid "Active Menu Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:677
+msgid "Hover Menu border"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:684
+msgid "Hover Menu Arrow color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:691
+msgid "Submenu Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:698
+msgid "Submenu background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:705
+msgid "Submenu Link border"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:712
+msgid "Hover Submenu Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:721
+msgid "Header"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:728
+msgid "Phone & Email Icons color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:735
+msgid "Phone Number color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:742
+msgid "Phone Number Highlight color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:749
+msgid "Title Area background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:756
+msgid "Title Area border color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:763
+msgid "Title Area Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:770
+msgid "Title Area Text & Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:777
+msgid "Title Area Arrow color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:794
+msgid "Text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:795
+msgid "Content text color."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:802
+msgid "Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:809
+msgid "Hoover Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:816
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:915
+msgid "Bold Note text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:817
+msgid "Bold Note, ex. latest post title, comment author, etc."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:824
+msgid "Dark Blue Note text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:825
+msgid "Dark Blue Note, ex. blockquote text, phone number, etc."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:832
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:922
+msgid "Grey Note text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:833
+msgid "Grey Note, ex. post date, etc."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:840
+msgid "Border color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:847
+msgid "Button text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:854
+msgid "Button arrow color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:870
+msgid "Footer background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:871
+msgid "This option works <strong>only</strong> with Footer Layout: Included."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:878
+msgid "Go to top icon color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:885
+msgid "Hover Go to top icon color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:892
+msgid "Footer heading color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:899
+msgid "Footer text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:900
+msgid "This is also Footer Menu Link color."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:907
+msgid "Footer Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:908
+msgid "This is also Hover Footer Menu Link color."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:929
+msgid "Borders & frames"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:936
+msgid "Footer Button text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:943
+msgid "Footer Button arrow color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:959
+msgid "Slider Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:966
+msgid "Slider Text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:973
+msgid "Slider Button text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:982
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1380
+msgid "Blog & Portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:989
+msgid "Blog Date background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:996
+msgid "Blog Day text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1003
+msgid "Blog Month text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1004
+msgid "This is also calendar icon color."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1011
+msgid "Blog Year text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1018
+msgid "Blog Comments background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1025
+msgid "Blog Comments text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1032
+msgid "Portfolio Item Icon color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1039
+msgid "Portfolio Item Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1048
+msgid "Headings"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1055
+msgid "Heading H1 color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1062
+msgid "Heading H2 color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1069
+msgid "Heading H3 color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1076
+msgid "Heading H4 color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1083
+msgid "Heading H5 color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1090
+msgid "Heading H6 color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1099
+msgid "Shortcodes"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1106
+msgid "Accordion & Tabs background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1113
+msgid "Accordion & Tabs inner background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1120
+msgid "Accordion & Tabs Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1127
+msgid "Active Accordion & Tabs Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1134
+msgid "Active Tab border"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1141
+msgid "Call To Action background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1148
+msgid "Call To Action Text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1155
+msgid "Call To Action Highlight color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1162
+msgid "Call To Action Button text color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1169
+msgid "Our Offer Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1176
+msgid "Our Offer Subtitle color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1183
+msgid "Our Offer Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1192
+msgid "Widgets"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1199
+msgid "Sidebar background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1206
+msgid "Muffin Menu background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1213
+msgid "Muffin Menu link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1220
+msgid "Active Muffin Menu link color"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1227
+msgid "Active Muffin Menu link background"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1236
+msgid "Font Family"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1242
+msgid "Content Font"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1243
+msgid "This font will be used for all theme texts except headings and menu."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1250
+msgid "Main Menu Font"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1251
+msgid "This font will be used for header menu."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1258
+msgid "Headings Font"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1259
+msgid "This font will be used for all headings."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1266
+msgid "Google Font Subset"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1267
+msgid ""
+"Specify which subsets should be downloaded. Multiple subsets should be "
+"separated with coma (,)"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1268
+msgid ""
+"Some of the fonts in the Google Font Directory support multiple scripts "
+"(like Latin and Cyrillic for example). In order to specify which subsets "
+"should be downloaded the subset parameter should be appended to the URL. For "
+"a complete list of available fonts and font subsets please see <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1277
+msgid "Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1284
+msgid "This font size will be used for all theme texts."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1291
+msgid "Heading H1"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1292
+msgid "Subpages header title."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1299
+msgid "Heading H2"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1306
+msgid "Heading H3"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1313
+msgid "Heading H4"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1320
+msgid "Heading H5"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1327
+msgid "Heading H6"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1342
+msgid "Enable Translate"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1343
+msgid ""
+"Turn it off if you want to use .mo .po files for more complex translation."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1351
+msgid "Search Placeholder"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1352
+msgid "Widget Search"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1360
+msgid "You are here"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1361
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1370
+msgid "Breadcrumbs"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1386
+msgid "Next page"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1387
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1396
+msgid "Blog, Portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1395
+msgid "Previous page"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1404
+msgid "Выберите категорию"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1423
+msgid "Single Blog, Single Portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1431
+msgid "Комментарии"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1440
+msgid "Project Description"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1441
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1450
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1459
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1468
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1477
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1486
+msgid "Single Portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1476
+msgid "Онлайн посетители"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1496
+msgid "Связаться"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1502
+msgid "phone number"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1503
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1512
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1521
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1530
+msgid "Contact Box"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1511
+msgid "our address"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1520
+msgid "email address"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1529
+msgid "twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1539
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1548
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1557
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1566
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1575
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1583
+msgid "Contact Form"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1574
+msgid "Success message"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1582
+msgid "Error message"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1592
+msgid "Error 404"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1615
+msgid "Please check entered address and try again or"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1622
+msgid "Button"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/theme-options.php:1623
+msgid "Go To Homepage button"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/font_select/field_font_select.php:25
+msgid "Default"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/font_select/field_font_select.php:31
+msgid "System"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/font_select/field_font_select.php:37
+msgid "Popular Google Fonts"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/font_select/field_font_select.php:43
+msgid "Google Fonts"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/pages_select/field_pages_select.php:23
+msgid "-- select --"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/upload/field_upload.php:27
+msgid "Browse"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/fields/upload/field_upload.php:28
+msgid "Remove Upload"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/muffin-options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/revslider/inc_php/revslider_widget.class.php:8
+msgid "Displays a revolution slider on the page"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/revslider/inc_php/revslider_widget.class.php:9
+msgid "Revolution Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\bretheon-dev\wp-content\themes\bretheon/revslider/inc_php/revslider_widget.class.php:22
+msgid "No sliders found, Please create a slider"
+msgstr ""

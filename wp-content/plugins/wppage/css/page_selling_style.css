@@ -1,0 +1,797 @@
+/*
+ Theme Name: WP
+ Theme URI: www.webografica.com
+ Description:
+ Author: Mykola Stetsyshyn www.webografica.com
+ Version: 0.1
+ */
+@import url("reset.css");
+@import url("review.css");
+@import url("buy_buttons.css");
+@import url("bullets.css");
+@import url("bonus.css");
+@import url("video.css");
+@import url("wp-comments.css");
+
+em {
+    font-style: italic;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+/**/
+body {
+    background-color: #f3f3f3;
+    background-repeat: repeat;
+    background-position: center top;
+    background-attachment: inherit;
+    overflow: scroll;
+}
+
+#ps_page {
+    margin: 20px auto;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: normal;
+    color: #292929;
+}
+
+#ps_content {
+    width: 687px;
+    margin: 0 auto;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background: #fff;
+    padding: 20px;
+    position: relative;
+}
+#ps_content a{
+    text-decoration: underline;
+}
+
+.ps_page_title {
+    margin: 0 0 20px;
+}
+
+.ps_content {
+    overflow: visible;
+}
+
+.ps_content ol {
+    list-style: decimal outside;
+    padding: 0 0 0 40px;
+}
+
+.ps_content iframe {
+    display: block;
+    padding: 20px;
+    border: 1px dashed #ccc;
+    margin: 10px auto;
+    background: #fff;
+}
+.ps_content p{
+    margin-bottom: 15px;
+    display: block;
+}
+
+.vvqbox iframe {
+    padding: 0;
+    border: none;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 15px 5px 0;
+    clear: right;
+}
+
+.alignright {
+    float: right;
+    margin: 5px 0 5px 15px;
+    clear: left;
+}
+
+.aligncenter {
+    display: block;
+    float: none;
+    clear: both;
+    text-align: center;
+    margin: 10px auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.no_border, object {
+    display: block;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 auto;
+}
+
+.audioplayer_container object {
+    margin: 0 !important;
+}
+
+.ps_content table{
+    width: 100%;
+    border: none;
+}
+
+.ps_content table td {
+    padding: 10px;
+    vertical-align: top;
+    border-collapse: collapse!important;
+}
+
+
+.ps_clear {
+    clear: both;
+    float: none;
+}
+
+/* getresponse */
+.wf-formTpl {
+    display: block;
+    margin: 10px auto;
+}
+
+.wf-body, .wf-body ul, .wf-body ul li {
+    padding: 0 !important;
+}
+
+.ps_data_form .wf-button {
+    display: block !important;
+    clear: both;
+    float: none;
+    text-align: center;
+    display: block;
+    width: 300px;
+    height: 53px;
+    padding: 0 !important;
+    margin: 10px auto;
+    border: none;
+    font: 18px/52px Arial, Helvetica, sans-serif;
+    color: #fff;
+    cursor: pointer;
+    background-color: transparent !important;
+    background: url(http://static.wppage.ru/wppage/i/buttons/11.png) center top no-repeat;
+    color: #000;
+}
+
+/* uppod*/
+/* social buttons */
+.ps_content .ps_social_buttons iframe {
+    border: none;
+    padding: 0;
+    margin: 0;
+    background: none;
+}
+
+.ps_social_buttons {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px dashed #CCC;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    overflow: hidden;
+}
+
+.ps_google_plus {
+    width: 60px;
+}
+
+.ps_social_buttons .ps_float_box {
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 10px;
+    height: 61px;
+}
+
+.ps_social_buttons table td, .ps_social_buttons table {
+    padding: 0;
+    margin: 0
+}
+
+.ps_social_buttons br {
+    display: none !important;
+}
+
+.wpp_vk_like {
+    width: 41px;
+    height: 51px!important;
+    padding-top: 20px!important;
+}
+
+.wpp_vk_share {
+    height: 21px!important;
+    padding: 50px 0 0!important;
+}
+.wpp_linkedin{
+    width: 61px;
+}
+
+.wpp_vk_share > table {
+    padding: 0;
+}
+.wpp_mailru {
+    width: 100px;
+}
+.wpp_odnoklasniki{
+    width: 80px;
+}
+
+/**/
+.post-edit-link {
+    position: absolute;
+    top: -10px;
+    right: 5px;
+    display: block;
+    padding: 5px 10px;
+    background: #333;
+    color: #fff;
+    cursor: pointer;
+    z-index: 10
+}
+
+.post-edit-link:hover {
+    background: #000;
+}
+
+
+/* media */
+.ps_media_wrap {
+    position: relative;
+    margin-bottom: 30px
+}
+
+.ps_media_box {
+    min-width: 900px;
+    margin: 0 -40px;
+    margin-bottom: 20px!important;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background: #fff;
+    padding: 20px;
+    overflow: hidden;
+    text-align: center;
+}
+.ps_media_content{
+    min-width: 900px;
+    max-width: 916px;
+    margin: 0 auto;
+}
+.ps_media_title {
+    font: 18px/22px Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+}
+
+.ps_media_box .ps_video {
+    float: left;
+    width: 570px;
+    height: 353px;
+}
+
+.ps_media_box .ps_video img {
+    display: block;
+    margin: 0 auto;
+}
+
+.ps_media_box .ps_smartresponder {
+    float: right;
+    text-align: left;
+    margin-left: 20px;
+    width: 300px;
+
+}
+
+.ps_media_box ol {
+    list-style: decimal inside!important;
+    margin: 0 0 5px 20px;
+    padding: 0;
+}
+
+.ps_media_box ul {
+    list-style: disc inside!important;
+    margin: 0 0 5px 20px;
+    padding: 0;
+}
+
+.ps_data_form {
+    margin: 5px 0 0;
+}
+.wpp_media_responder_right_box{
+    float: left;
+    padding-left:20px;
+    width: 300px;
+}
+.wpp_media_responder_right_box .ps_text{
+    margin-bottom: 15px;
+
+}
+.wpp_media_smartresp_box{
+    min-width: 302px;
+    max-width: 325px;
+    float: left;
+    padding: 10px 5px;
+}
+.wpp_media_smartresp_box input[type=text]{
+    width: 260px;
+    padding: 5px 5px 5px 30px;
+    margin: 5px 0;
+    border: 1px solid #cccccc;
+    color: #9E9E9E;
+}
+.wpp_media_subscription{
+    min-width: 302px;
+    max-width: 325px;
+    overflow: hidden;
+    padding-left: 10px;
+}
+
+/* timer */
+.ps_timer_description {
+    font: italic 16px/20px Georgia, "Times New Roman", Times, serif;
+    color: #ff6329;
+}
+
+.ps_timeClass {
+    font: bold 20px/28px Arial, Helvetica, sans-serif;
+    color: #ff6329;
+}
+
+/* responder */
+.ps_smartresponder input[type="text"] {
+    width: 260px;
+    padding: 5px 5px 5px 30px;
+    border: 1px solid #dedede;
+    float: none;
+    color: #9e9e9e;
+    display: block;
+    margin: 5px 0;
+}
+
+.ps_smartresponder input[name="name"] {
+    background: #fff url(../i/man_icon.png) 8px 3px no-repeat;
+}
+
+.ps_smartresponder input[name="email"] {
+    background: #fff url(../i/mail_icon.png) 5px 4px no-repeat;
+}
+
+.ps_smartresponder input[name="tel"] {
+    background: #fff url(../i/phone_icon.png) 8px 4px no-repeat;
+}
+
+.ps_smartresponder .ps_cbutton {
+    margin: 10px 0;
+}
+
+.ps_cbutton {
+    display: block !important;
+    clear: both;
+    float: none;
+    text-align: center;
+    display: block;
+    width: 300px;
+    height: 53px;
+    padding: 0 !important;
+    margin: 5px auto;
+    border: none;
+    font: 18px/52px Arial, Helvetica, sans-serif;
+    color: #fff;
+    cursor: pointer;
+    background-color: transparent !important;
+}
+
+.ps_button_1 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/1.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_2 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/2.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_3 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/3.png) center top no-repeat !important;
+    color: #000;
+}
+
+.ps_button_4 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/4.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_5 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/5.png) center top no-repeat !important;
+    color: #000;
+}
+
+.ps_button_6 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/6.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_7 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/7.png) center top no-repeat !important;
+    color: #000;
+}
+
+.ps_button_8 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/8.png) center top no-repeat !important;
+    color: #000;
+}
+
+.ps_button_9 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/9.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_10 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/10.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_11 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/11.png) center top no-repeat !important;
+    color: #000;
+}
+
+.ps_button_12 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/12.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_13 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/13.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_14 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/14.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_15 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/15.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_16 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/16.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_17 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/17.png) center top no-repeat !important;
+    color: #000;
+}
+
+.ps_button_18 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/18.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_19 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/19.png) center top no-repeat !important;
+    color: #000;
+}
+
+.ps_button_20 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/20.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_21 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/21.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_22 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/22.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_23 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/23.png) center top no-repeat !important;
+    color: #fff;
+}
+
+.ps_button_24 {
+    background: url(http://static.wppage.ru/wppage/i/buttons/24.png) center top no-repeat !important;
+    color: #fff;
+}
+/* boxes */
+.ps_text_box {
+    padding: 20px;
+    margin: 10px 0;
+    overflow: hidden;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.ps_text_box_1 {
+    border: 2px dashed #595959;
+    background: #d9d9d9;
+    color: #000;
+}
+
+.ps_text_box_1_1 {
+    border: 2px dashed #afafae;
+    background: #f2f2f2;
+    color: #000;
+}
+
+.ps_text_box_2 {
+    border: 2px dashed #295925;
+    background: #51b048;
+    color: #fff;
+}
+
+.ps_text_box_2_1 {
+    border: 2px dashed #295925;
+    background: #aaffaa;
+    color: #000;
+}
+
+.ps_text_box_3 {
+    border: 2px dashed #3a3cba;
+    background: #474ae2;
+    color: #fff;
+}
+
+.ps_text_box_3_1 {
+    border: 2px dashed #3a3cba;
+    background: #e5e5fc;
+    color: #000;
+}
+
+.ps_text_box_4 {
+    border: 2px dashed #cf0e22;
+    background: #ce404f;
+    color: #fff;
+}
+
+.ps_text_box_4_1 {
+    border: 2px dashed #cf0e22;
+    background: #fcd4d4;
+    color: #000;
+}
+
+.ps_text_box_5 {
+    border: 2px dashed #c2ac5f;
+    background: #ffe37e;
+    color: #000;
+}
+
+.ps_text_box_5_1 {
+    border: 2px dashed #c2ac5f;
+    background: #ffffaa;
+    color: #000;
+}
+
+.ps_text_box_6 {
+    border: 2px dashed #bbbbbb;
+    background: #fff;
+    color: #000;
+}
+
+.ps_arrow, .ps_satisfaction {
+    display: block;
+    clear: both;
+    margin: 10px auto;
+    float: none;
+    text-align: center;
+}
+
+/* smartresponder */
+.ps_smartresp_box {
+    border: 1px solid #CCC;
+    background: #fff;
+    color: #000000;
+    padding: 20px;
+    width: 300px;
+    margin: 10px auto;
+}
+
+.ps_SM_headline {
+    margin: 0 5px 10px;
+    text-align: left;
+}
+
+.ps_smartresp_box input.field {
+    width: 260px;
+    padding: 5px 5px 5px 30px;
+    margin: 5px 0;
+    border: 1px solid #afafaf;
+    color: #9e9e9e;
+}
+
+input[name="field_name_first"] {
+    background: #fff url(../i/man_icon.png) 8px 3px no-repeat;
+}
+
+input[name="field_email"] {
+    background: #fff url(../i/mail_icon.png) 6px 4px no-repeat;
+}
+input[name="field_phones"] {
+    background: #fff url(../i/phone_icon.png) 8px 2px no-repeat;
+}
+
+/* order */
+#ps_order_wrap {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.ps_order_opacity {
+    background: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99
+}
+
+.ps_order_wrap {
+    position: relative;
+    width: 600px;
+    height: 500px;
+    margin: 50px auto;
+    background: #fff;
+    border: 1px solid #7a7a7a;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0 5px 15px #000;
+    -moz-box-shadow: 0 5px 15px #000;
+    -webkit-box-shadow: 0 5px 15px #000;
+    z-index: 100
+}
+
+.ps_close_order {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 20px;
+    height: 20px;
+    background: url(../i/close.png);
+    cursor: pointer;
+    z-index: 101
+}
+
+.ps_order_content {
+    text-align: center;
+    width: 500px;
+    padding: 20px;
+    font: 15px/22px Verdana, Geneva, sans-serif;
+}
+
+.ps_order_content .p_thumb {
+    margin: 0 0 5px;
+    padding: 5px;
+}
+
+.ps_order_content .p_thumb img {
+    padding: 0;
+    margin: 0;
+}
+
+.ps_order_content label {
+    display: inline-block;
+    text-align: left;
+    width: 100px;
+    border-bottom: 1px dotted #999;
+    font-style: italic;
+}
+
+.ps_order_content input[type="text"] {
+    padding: 5px 10px;
+    margin: 5px 0;
+}
+
+.ps_order_content .ps_p_info {
+    margin: 10px 0;
+}
+
+#ik_submit {
+    display: block;
+    border: none;
+    width: 300px;
+    height: 53px;
+    font: 18px/30px Arial, Helvetica, sans-serif;
+    background: url(http://static.wppage.ru/wppage/i/buttons/11.png) center top no-repeat;
+    color: #000;
+    margin: 10px auto;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+#ik_form {
+    margin: 10px 0;
+}
+
+/**/
+#ps_counter {
+    width: 554px;
+    margin: 0 auto;
+}
+
+.ps_countdown_wrap {
+    width: 580px;
+    margin: 10px auto;
+    border: 1px solid #CCC;
+    background: #fff;
+    color: #000;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 20px 20px 2px;
+    float: none;
+    clear: both;
+}
+
+.cntSeparator {
+    margin: 10px 11px;
+    font: 54px/54px Georgia, "Times New Roman", Times, serif;
+}
+
+.ps_counter_desc {
+    clear: both;
+    margin: 10px auto;
+    width: 554px;
+    overflow: hidden;
+    float: none;
+}
+
+.ps_counter_desc div {
+    float: left;
+    width: 105px;
+    margin: 0 39px 0 0;
+    font: 26px/40px arial;
+    text-align: center;
+}
+
+.ps_counter_desc div:last-child {
+    margin: 0 !important;
+}
+
+/* stopper part */
+#stopper_plugin_content_part_one{
+    position: relative;
+    overflow: hidden;
+}
+/**/
+.sr-box{
+    margin: 0 auto;
+}
+#mc_embed_signup{
+    margin: 20px auto;
+    padding: 20px;
+    width: 350px;
+    border: 1px solid #C8C8C8;
+}
+.unisender_form_wrap > form {
+    display: block;
+    margin: 10px auto;
+}
+.justclick_form_wrap{
+    width: 390px;
+    padding: 20px 15px 20px 20px;
+    margin: 10px auto;
+}
+.justclick_form_wrap iframe{
+    border: none!important;
+}

@@ -1,0 +1,175 @@
+/********************** Font sizes **********************/
+	
+/* Footer */
+	#Footer {
+	    font-size: 90%;
+	    line-height: 122%;
+	}
+	
+/* Grey notes */
+	.Recent_comments li span.date, .Recent_posts span.date {
+		font-size: 92%;
+	    line-height: 130%;
+	}
+	
+	
+/********************* Colors *********************/
+
+/* Menu color */		
+	#Header #menu > ul > li,
+	#Header #menu > ul {
+		border-color: #F7F7F7;
+	}
+	
+	#Header #menu > ul > li ul li a {
+		border-color: #E6E6E6;
+	} 
+	
+/* Go to top */
+	#Footer a#back_to_top {
+		color: #fff;
+	}
+	#Footer a:hover#back_to_top {
+		color: #fff;
+	}
+	
+/* Footer frames, background & border color */
+	#Footer .Flickr .flickr_badge_image a  {
+		background: #fff; 
+	}
+	
+/* Footer Buttons */
+	#Footer a.button, #Footer input[type="submit"], #Footer input[type="reset"], #Footer input[type="button"], #Footer .widget_mfn_clients a.rslides_nav {
+		border-color: rgba(255, 255, 255, 0.10);
+		text-shadow: 1px 1px 0 #393939;
+		color: #fff !important;
+		background-color: #555555;
+	}
+	
+	#Footer a.button span, #Footer input[type="submit"] span, #Footer input[type="reset"] span, #Footer input[type="button"] span {
+		color: #B6B6B6;
+	}
+
+	#Footer a:hover.button, #Footer input[type="submit"]:hover, #Footer input[type="reset"]:hover, #Footer input[type="button"]:hover,
+	#Footer .widget_mfn_clients a:hover.rslides_nav {
+		border-color: rgba(255, 255, 255, 0.25);
+	}
+		
+/* Reply button */
+	#comments .commentlist > li .reply a.comment-reply-link {
+		background-color: #515151;
+		color: #fff !important;
+		text-shadow: 1px 1px 0 #2F2F2F;
+	}
+	
+/* Inputs */
+	input[type="text"], input[type="password"], input[type="email"], textarea, select {
+		background: #fcfcfc;
+		color: #8C8C8C;
+		border-top: 1px solid #D3D3D3;
+		border-left: 1px solid #D3D3D3;
+		border-bottom: 1px solid #f2f2f2;
+		border-right: 1px solid #f2f2f2;
+	}
+	
+/* Captions mask */
+	.wp-caption .photo .photo_wrapper a i {
+		color: #fff;
+		text-shadow: 1px 1px 0 rgba(0,0,0,.2);
+	}
+	
+/* Get in touch */
+	.get_in_touch li i {
+		color: #31373C;
+	}
+	
+/* Portfolio */
+	.Projects_header .categories li.label h6 {
+		color: #31373C;
+	}
+	
+	.Projects_header .categories li a {
+		color: #393939;
+		text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.80);
+	}
+	
+	.Projects_header .categories li.current-cat a,
+	.Projects_header .categories li a:hover {
+		color: #fff;
+		text-shadow: 1px 1px 0 rgba(0,0,0,.8);
+	}
+	
+	.portfolio_item h6 {
+		color: #fff;
+		text-shadow: 1px 1px 0 rgba(0,0,0,.8);
+	}
+	
+/* Call to action */
+	.call_to_action {
+		text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.80);
+	}
+	
+	.call_to_action a.button {
+		border-color: rgba(255, 255, 255, 0.10);
+		text-shadow: 1px 1px 0 rgba(0,0,0,.8);
+	}
+
+/* Faq & Accordion */
+	.accordion .question h5, .faq .question h5 { 
+		text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.80);
+	}		
+	
+/* Tabs */
+	.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-active a {
+		text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.40);
+	}
+	.ui-tabs .ui-tabs-nav li a {
+		text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.80);
+	}
+	
+/* Submenu */
+	.widget ul.menu li a i.icon-angle-right { 
+		color: rgba(0,0,0,0.2) !important;
+	}
+	.widget ul.menu li.current_page_item a i.icon-angle-right, .widget ul.menu li a:hover i.icon-angle-right { 
+		color: rgba(255,255,255,0.6) !important;
+	}
+	
+/* Our team */
+	.team .desc .links a {
+		color: #393939;
+		text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.80);
+	}
+	
+/* What we offer */
+	.offer .offer-slider-wrapper ul li .box .desc span.link_ico {
+		color: #b6b6b6;
+		text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.80);
+	} 
+	
+/* Slider controls */
+	a.slider_control, a.rslides_nav { 
+		color: #4a4a4a;
+	}
+	a.slider_control_prev, a.rslides_nav.prev {
+		border-color: #f2f2f2;
+	}
+
+/* Pager */
+	.pager a.page {
+		color: #393939 !important;	
+	}
+	.pager a.page.active, .pager a:hover.page {
+		color: #fff !important;
+	}
+	
+/* Buttons */
+	a.button, input[type="submit"], input[type="reset"], input[type="button"],
+	.widget_mfn_clients a.rslides_nav {
+		border-color: rgba(0, 0, 0, 0.10);
+	}
+	
+	a:hover.button, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover,
+	.widget_mfn_clients a:hover.rslides_nav {
+		border-color: rgba(0, 0, 0, 0.25);
+	}

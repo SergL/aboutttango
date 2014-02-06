@@ -1,0 +1,143 @@
+.actions{
+    height: 30px;
+    margin: 0 0 10px;
+}
+/* table */
+.experiments-table{
+    border: 1px solid #dadada;
+}
+.experiments-table td{
+    padding: 10px;
+    border: 1px solid #dadada;
+    border-left: 0;
+    border-right: 0;
+    white-space: nowrap;
+}
+.experiments-table tr:first-child td{
+    background: #f8f8f8;
+    font-weight: bold;
+}
+.experiments-table tr:nth-child(odd){
+    background: #f7f7f7;
+}
+#wpp_maxab .group{
+    margin: 10px 0;
+}
+#wpp_maxab .label{
+    margin-bottom: 5px;
+}
+#wpp_maxab input[name=name]{
+    width: 400px;
+}
+/**/
+#wpp_maxab .experiment_title{
+    font: 20px/24px 'Arial';
+    margin: 0 0 10px;
+}
+#edit-experiment-modal{
+    display: none;
+}
+#delete-experiment-modal, #empty-experiment-modal{
+    display: none;
+    padding-bottom: 30px;
+}
+#simplemodal-container{
+    box-shadow: 0 0 20px #575757;
+    background: #ffffff;
+}
+
+#simplemodal-overlay {
+    background: #000000;
+}
+.modalCloseImg{
+    background: url('images/x.png') no-repeat;
+    width: 25px;
+    height: 29px;
+    display: inline;
+    z-index: 3200;
+    position: absolute;
+    top: -15px;
+    right: -16px;
+    cursor: pointer;
+}
+.simplemodal-data{
+    padding: 20px;
+}
+.simplemodal-data p{
+    padding-bottom: 10px;
+}
+.simplemodal-data .title{
+    padding: 10px 0;
+    border-bottom: 1px solid #ededed;
+}
+#edit-experiment-form, .info_box{
+    padding: 10px 0;
+}
+.simplemodal-data .input-group{
+    margin: 0 0 15px;
+}
+.simplemodal-data .label{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.button-group{
+    margin: 20px 0;
+}
+/**/
+
+#wpp_maxab .clear{
+    clear: both;
+    float: none;
+}
+#wpp_maxab p{
+    margin-bottom: 5px;
+}
+#wpp_maxab input[type=radio]{
+    margin-right: 5px;
+}
+.m_box{
+    padding: 3px 0;
+    clear: both;
+    float: none;
+}
+.m_box .label{
+    display: inline-block;
+    width: 160px;
+}
+.m_box .value{
+    display: inline-block;
+    width: 350px;
+}
+input.short{
+    width: 60px;
+}
+input.url{
+    width: 400px;
+}
+.red{
+    color: #f03a3a!important;
+}
+.green{
+    color: #30a957!important;
+}
+#unique-pages-required{
+    display: none;
+    padding: 5px;
+    margin: 5px 0;
+    border: 1px solid #f03a3a;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -border-radius: 5px;
+}
+#wpp_maxab .error{
+    border: 1px solid #f03a3a;
+}
+#wpp_maxab .buttons{
+    margin: 20px 0 ;
+}
+#wpp_maxab .delete-action{
+    display: inline-block;
+}
+.wpp_experiment_info, .wpp_experiment_compare{
+    margin-top: 15px;
+}

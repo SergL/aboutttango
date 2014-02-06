@@ -1,0 +1,94 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+/* Table of Contents
+==================================================
+#Base 960 Grid
+#Clearing */
+
+/* #Base 960 Grid
+================================================== */
+
+body							{ min-width:1000px;}
+
+.container						{ position: relative; width: 960px; margin: 0 auto; padding: 0; }
+.container .column,
+.container .columns             { float: left; display: inline; margin-bottom: 20px; }
+.row							{ margin-bottom: 20px; }
+
+
+/* Base Grid */
+.container .four.columns,
+.container .one-fourth.column	{ width: 240px; }
+.container .one-third.column	{ width: 320px; }
+.container .eight.columns,
+.container .one-second.column	{ width: 480px; }
+.container .two-third.column	{ width: 640px; }
+.container .twelve.columns,
+.container .three-fourth.column	{ width: 720px; }
+.container .sixteen.columns,
+.container .one.column			{ width: 960px; }
+
+
+/* Subpage grid */
+.with_aside #Content .container .one-fourth.column		{ width: 180px; }
+.with_aside #Content .container .one-third.column		{ width: 240px; }
+.with_aside #Content .container .one-second.column		{ width: 360px; }
+.with_aside #Content .container .two-third.column		{ width: 480px; }
+.with_aside #Content .container .three-fourth.column	{ width: 540px; }
+
+.with_aside #Content .container .sixteen.columns,
+.with_aside #Content .container .one.column				{ width: 720px; }
+
+
+/* The content */	
+.container .the_content .one.column				{ width: 98% !important; margin-right: 2% !important; margin-left: 0 !important; }
+
+.container .the_content .one-second.column		{ width: 48% !important; margin-right: 2% !important; margin-left: 0 !important; }
+
+.container .the_content .one-third.column		{ width: 31.33% !important; margin-right: 2% !important; margin-left: 0 !important; }
+.container .the_content .two-third.column		{ width: 64.66% !important; margin-right: 2% !important; margin-left: 0 !important; }
+
+.container .the_content .one-fourth.column		{ width: 23% !important; margin-right: 2% !important; margin-left: 0 !important; }
+.container .the_content .two-fourth.column		{ width: 48% !important; margin-right: 2% !important; margin-left: 0 !important; }
+.container .the_content .three-fourth.column	{ width: 73% !important; margin-right: 2% !important; margin-left: 0 !important; }
+
+/* #Clearing
+================================================== */
+
+/* Self Clearing Goodness */
+.container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+
+/* Use clearfix class on parent to clear nested columns, or wrap each row of columns in a <div class="row"> */
+.clearfix:before,
+.clearfix:after,
+.row:before,
+.row:after {
+	content: '\0020';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0; }
+.row:after,
+.clearfix:after {
+	clear: both; }
+.row,
+.clearfix {
+	zoom: 1; }
+
+/* You can also use a <br class="clear" /> to clear columns */
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
