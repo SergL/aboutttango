@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '|eodvQZ(zE7}Tj:V2%Me;-W}e:%.z.mI{*4G&|`09yj-*O/;;z@E,T.+D+rnAf:5');
-define('SECURE_AUTH_KEY',  '`(36vPP,{1k8XanB-I&/ehT^f>Mm|:+Sfj;Mv/sGoS@6fTSzhuyRX@r5$Ce|e}s,');
-define('LOGGED_IN_KEY',    ' */QgAoZ!-dRfwUiT6&`YZ^*-<xbRE+^|x2( S Y!NlIweB=w=)q-d3]T+o;XKS?');
-define('NONCE_KEY',        'ad>&1,4e/-x)YRw|Y_C,2MpHF98C<Lnp}o1(Yn+`f(Puk~xx.Y(*|-4*L{R2CP-M');
-define('AUTH_SALT',        ']}1u-G-dz.Kc4w42vL3P7?.Ko@|lB3rl&+w?(p)9E3L@GV:418-=>M?U-}_Oq;*-');
-define('SECURE_AUTH_SALT', 'BpS{E7UxQ>r#A`=Ry~ZFB5h/$K}V7 54!.NMLh`{j=9)ql?xw+u$F=e~Nr| M9|U');
-define('LOGGED_IN_SALT',   '^C,yZN-n+J7]q:nwz*RYTMH9J-,Y&gz]}pZQ`v3K)U7z+Ss{/Pub;YdW6MOt>}ow');
-define('NONCE_SALT',       '=tMI+E~7#(Nl@`jMua;|J2H)1@3re%+]<4iz[Z3RgS3{t]J-:&9weB4)?/ZXr](1');
+define('AUTH_KEY',         '_;6#GR9$d5|N8:REr9S;^&0((IMc]f5J2?7F?|s:rQ^DP_q9gd|/2CO}uv?dAm|n');
+define('SECURE_AUTH_KEY',  'kG+kXNHj0}3;frA<hQ:/6?8+b}Ya3]wk(np-uI;6+{b]n*@uXJ~q3P?k=>ce=i~[');
+define('LOGGED_IN_KEY',    '(*(&6J* 5)8h:AkeT)#;Az(.#(gPBvh|M<kVJ+(N{nB7Pim3.p9iA@e=MK.$DmNL');
+define('NONCE_KEY',        'b?Sr{(C@+<ZZwO2-.x-tf/|zbS87;3bwvL~im[EY|7*9MWXr[Imz&o(ff/B5aLHr');
+define('AUTH_SALT',        '1fy:^&mNP4DknCX{yAn5:U<k8<L.Xfffobukv<n%0mfisCL|3|ENU4Du,+ZSZg(.');
+define('SECURE_AUTH_SALT', 'F#]D{&&FeN0%g23Fg@}-%(>qoz.4LU--Y?-I_<CHnvB^zcfIxO-%z+gMzYjA9uQv');
+define('LOGGED_IN_SALT',   'D/1!f51ns,een;;:L[?pG`u((O 9C+#wO1n.i<P=M-$Djm}(V9Is=)5~G!AcNJh]');
+define('NONCE_SALT',       'x_k6><qh+}wYGQZod*+sA`fc@?pEN AR,CcN6jz}@#rj`}.|c-y)t<j)dXLv>=p-');
 
 /**#@-*/
 
@@ -59,8 +59,8 @@ define('NONCE_SALT',       '=tMI+E~7#(Nl@`jMua;|J2H)1@3re%+]<4iz[Z3RgS3{t]J-:&9w
  * Можно установить несколько блогов в одну базу данных, если вы будете использовать
  * разные префиксы. Пожалуйста, указывайте только цифры, буквы и знак подчеркивания.
  */
-$table_prefix  = 'wp_';
-
+//$table_prefix  = 'wp_';
+$table_prefix  = 'kora_';
 /**
  * Язык локализации WordPress, по умолчанию английский.
  *
